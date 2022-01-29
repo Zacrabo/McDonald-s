@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/zcrab_mcdonalds",
+    "value": {
+      "warpAction": "InstanceWorld:zcrab_mcdonalds",
+      "threatLevel": 1,
+      "skyParameters": {
+        "seed": 0,
+        "horizonClouds": false,
+        "horizonImages": [
+          {
+            "left": "/celestial/system/spacestation/stationhorizonleft.png",
+            "right": "/zcrab/mcdonalds/celestial/mcdonaldshorizonright.png"
+          }
+        ]
+      },
+      "permanent": true,
+      "moving": false,
+      "speed": 5,
+      "orbitRange": [
+        10,
+        10
+      ],
+      "lifeTime": [
+        0,
+        0
+      ],
+      "parameters": {
+        "icon": "/interface/bookmarks/icons/zcrab_mcdonalds.png",
+        "displayName": "McDonald's",
+        "description": "McDonald's is a fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald.",
+        "bookmarkIcon": "zcrab_mcdonalds"
+      }
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "itemName" : "zcrab_toywrapper",
+  "price" : 5000,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "one toy please!",
+  "shortdescription" : "Wrapped Happy Meal Toy",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "toywrappericon.png",
+  "animation" : "toywrapper.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "zcrab_happymealtoywrapper",
+    "level" : 1
+  }
+}

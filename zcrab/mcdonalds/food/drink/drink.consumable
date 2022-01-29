@@ -1,0 +1,17 @@
+{
+  "itemName" : "zcrab_mcdonaldsdrink",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "drink",
+  "inventoryIcon" : "drink.png",
+  "description" : "mcdonald's fluid.",
+  "shortdescription" : "McDonald's Soda",
+  "maxStack" : 1,
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 30
+    }
+  ] ],
+  "emitters" : [ "drinking" ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "zcrab_parkingsign",
+  "colonyTags" : ["scorched"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 100,
+  "description" : "p",
+  "shortdescription" : "Parking Sign",
+  "race" : "generic",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "parkingsign.png:<color>",
+      "imagePosition" : [-10, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0,0], [0,1], [0,2], [-1,3], [0,3], [1,3], [-1,4], [0,4], [1,4], [-1,5], [0,5] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "parkingsign.png:<color>",
+      "imagePosition" : [-6, 0],
+
+      "direction" : "right",
+
+      "spaces" : [ [0,0], [0,1], [0,2], [-1,3], [0,3], [1,3], [-1,4], [0,4], [1,4], [1,5], [0,5] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
