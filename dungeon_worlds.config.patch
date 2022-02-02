@@ -6,16 +6,9 @@
       "primaryDungeon": "zcrab_mcdonalds",
       "threatLevel": 1,
       "gravity": 80,
-      "worldSize": [
-        2000,
-        2000
-      ],
+      "worldSize": [2000, 2000],
       "dungeonBaseHeight": 1000,
-      "ambientLightLevel": [
-        128,
-        128,
-        128
-      ],
+      "ambientLightLevel": [128, 128, 128],
       "ambientNoises": "/sfx/environmental/space_loop4.ogg",
       "musicTrack": "/music/planetarium.ogg",
       "biome": "space"

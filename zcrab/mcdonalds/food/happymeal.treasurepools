@@ -2,118 +2,118 @@
 	"zcrab_happymeal": [
 		[1, {
 			"fill": [
-			{"pool": "zcrab_happymealburger"},
-			{"pool": "zcrab_happymealside"},
-			{"pool": "zcrab_happymealdrink"},
-			{"item": "zcrab_toywrapper"}
+				{"pool": "zcrab_happymealburger"},
+				{"pool": "zcrab_happymealside"},
+				{"pool": "zcrab_happymealdrink"},
+				{"item": "zcrab_toywrapper"}
 			]
 		}]
 	],
 	"zcrab_happymealburger": [
 		[1, {
 			"pool": [
-			{"weight" : 0.5, "item": "hamburger"},
-			{"weight" : 0.5, "item": "cheeseburger"},
-			{"weight" : 0.5, "item": "zcrab_chickennuggets"}
+				{"weight" : 1, "item": "hamburger"},
+				{"weight" : 1, "item": "cheeseburger"},
+				{"weight" : 1, "item": "zcrab_chickennuggets"}
 			]
 		}]
 	],
 	"zcrab_happymealside": [
 		[1, {
 			"pool": [
-			{"weight" : 0.5, "item": "zcrab_fries"},
-			{"weight" : 0.5, "item": "zcrab_appleslices"}
+				{"weight" : 1, "item": "zcrab_fries"},
+				{"weight" : 1, "item": "zcrab_appleslices"}
 			]
 		}]
 	],
 	"zcrab_happymealdrink": [
 		[1, {
 			"pool": [
-			{"weight" : 0.5, "item": "zcrab_mcdonaldsdrink"},
-			{"weight" : 0.5, "item": "zcrab_chocolatemilk"}
+				{"weight" : 1, "item": "zcrab_mcdonaldsdrink"},
+				{"weight" : 1, "item": "zcrab_chocolatemilk"}
 			]
 		}]
 	],
 	"zcrab_happymealtoywrapper": [
 		[1, {
 			"fill": [
-			{"pool": "zcrab_happymealtoy"},
-			{"item": "zcrab_emptywrapper"}
+				{"pool": "zcrab_happymealtoy"},
+				{"item": "zcrab_emptywrapper"}
 			]
 		}]
 	],
 	"zcrab_happymealtoy": [
 		[1, {
 			"pool": [
-{"weight" : 0.5, "item" : "adultpoptopaf"},
-{"weight" : 0.5, "item" : "agrobataf"},
-{"weight" : 0.5, "item" : "anglureaf"},
-{"weight" : 0.5, "item" : "asranoxaf"},
-{"weight" : 0.5, "item" : "batongaf"},
-{"weight" : 0.5, "item" : "bigapeaf"},
-{"weight" : 0.5, "item" : "bobfaeaf"},
-{"weight" : 0.5, "item" : "bobotaf"},
-{"weight" : 0.5, "item" : "bonedragonaf"},
-{"weight" : 0.5, "item" : "bulbopaf"},
-{"weight" : 0.5, "item" : "capricoataf"},
-{"weight" : 0.5, "item" : "cosmicintruderaf"},
-{"weight" : 0.5, "item" : "crabcanoaf"},
-{"weight" : 0.5, "item" : "crustoiseaf"},
-{"weight" : 0.5, "item" : "crutteraf"},
-{"weight" : 0.5, "item" : "dreadwingaf"},
-{"weight" : 0.5, "item" : "erchiushorroraf"},
-{"weight" : 0.5, "item" : "fennixaf"},
-{"weight" : 0.5, "item" : "gleapaf"},
-{"weight" : 0.5, "item" : "gosmetaf"},
-{"weight" : 0.5, "item" : "hemogoblinaf"},
-{"weight" : 0.5, "item" : "hypnareaf"},
-{"weight" : 0.5, "item" : "ignomeaf"},
-{"weight" : 0.5, "item" : "iguarmoraf"},
-{"weight" : 0.5, "item" : "ixodoomaf"},
-{"weight" : 0.5, "item" : "ixolingaf"},
-{"weight" : 0.5, "item" : "kluexavataraf"},
-{"weight" : 0.5, "item" : "kluexsentryaf"},
-{"weight" : 0.5, "item" : "lilodonaf"},
-{"weight" : 0.5, "item" : "lumothaf"},
-{"weight" : 0.5, "item" : "mandrafloraaf"},
-{"weight" : 0.5, "item" : "miasmopaf"},
-{"weight" : 0.5, "item" : "monopusaf"},
-{"weight" : 0.5, "item" : "narfinaf"},
-{"weight" : 0.5, "item" : "nutmidgeaf"},
-{"weight" : 0.5, "item" : "oculobaf"},
-{"weight" : 0.5, "item" : "oogleraf"},
-{"weight" : 0.5, "item" : "orbideaf"},
-{"weight" : 0.5, "item" : "paraspriteaf"},
-{"weight" : 0.5, "item" : "paratailaf"},
-{"weight" : 0.5, "item" : "peblitaf"},
-{"weight" : 0.5, "item" : "petricubaf"},
-{"weight" : 0.5, "item" : "pipkinaf"},
-{"weight" : 0.5, "item" : "poptopaf"},
-{"weight" : 0.5, "item" : "pteropodaf"},
-{"weight" : 0.5, "item" : "pulpinaf"},
-{"weight" : 0.5, "item" : "pyromantleaf"},
-{"weight" : 0.5, "item" : "quagmuttaf"},
-{"weight" : 0.5, "item" : "ringramaf"},
-{"weight" : 0.5, "item" : "scandroidaf"},
-{"weight" : 0.5, "item" : "scaveranaf"},
-{"weight" : 0.5, "item" : "shockhoppermkiaf"},
-{"weight" : 0.5, "item" : "skimbusaf"},
-{"weight" : 0.5, "item" : "smoglinaf"},
-{"weight" : 0.5, "item" : "snaggleraf"},
-{"weight" : 0.5, "item" : "snauntaf"},
-{"weight" : 0.5, "item" : "snuffishaf"},
-{"weight" : 0.5, "item" : "spookitaf"},
-{"weight" : 0.5, "item" : "sporgusaf"},
-{"weight" : 0.5, "item" : "squeemaf"},
-{"weight" : 0.5, "item" : "swansongaf"},
-{"weight" : 0.5, "item" : "taroniaf"},
-{"weight" : 0.5, "item" : "tinticaf"},
-{"weight" : 0.5, "item" : "toumingoaf"},
-{"weight" : 0.5, "item" : "trictusaf"},
-{"weight" : 0.5, "item" : "triplodaf"},
-{"weight" : 0.5, "item" : "voltipaf"},
-{"weight" : 0.5, "item" : "wisperaf"},
-{"weight" : 0.5, "item" : "yokataf"}
+				{"weight" : 1, "item" : "adultpoptopaf"},
+				{"weight" : 1, "item" : "agrobataf"},
+				{"weight" : 1, "item" : "anglureaf"},
+				{"weight" : 1, "item" : "asranoxaf"},
+				{"weight" : 1, "item" : "batongaf"},
+				{"weight" : 1, "item" : "bigapeaf"},
+				{"weight" : 1, "item" : "bobfaeaf"},
+				{"weight" : 1, "item" : "bobotaf"},
+				{"weight" : 1, "item" : "bonedragonaf"},
+				{"weight" : 1, "item" : "bulbopaf"},
+				{"weight" : 1, "item" : "capricoataf"},
+				{"weight" : 1, "item" : "cosmicintruderaf"},
+				{"weight" : 1, "item" : "crabcanoaf"},
+				{"weight" : 1, "item" : "crustoiseaf"},
+				{"weight" : 1, "item" : "crutteraf"},
+				{"weight" : 1, "item" : "dreadwingaf"},
+				{"weight" : 1, "item" : "erchiushorroraf"},
+				{"weight" : 1, "item" : "fennixaf"},
+				{"weight" : 1, "item" : "gleapaf"},
+				{"weight" : 1, "item" : "gosmetaf"},
+				{"weight" : 1, "item" : "hemogoblinaf"},
+				{"weight" : 1, "item" : "hypnareaf"},
+				{"weight" : 1, "item" : "ignomeaf"},
+				{"weight" : 1, "item" : "iguarmoraf"},
+				{"weight" : 1, "item" : "ixodoomaf"},
+				{"weight" : 1, "item" : "ixolingaf"},
+				{"weight" : 1, "item" : "kluexavataraf"},
+				{"weight" : 1, "item" : "kluexsentryaf"},
+				{"weight" : 1, "item" : "lilodonaf"},
+				{"weight" : 1, "item" : "lumothaf"},
+				{"weight" : 1, "item" : "mandrafloraaf"},
+				{"weight" : 1, "item" : "miasmopaf"},
+				{"weight" : 1, "item" : "monopusaf"},
+				{"weight" : 1, "item" : "narfinaf"},
+				{"weight" : 1, "item" : "nutmidgeaf"},
+				{"weight" : 1, "item" : "oculobaf"},
+				{"weight" : 1, "item" : "oogleraf"},
+				{"weight" : 1, "item" : "orbideaf"},
+				{"weight" : 1, "item" : "paraspriteaf"},
+				{"weight" : 1, "item" : "paratailaf"},
+				{"weight" : 1, "item" : "peblitaf"},
+				{"weight" : 1, "item" : "petricubaf"},
+				{"weight" : 1, "item" : "pipkinaf"},
+				{"weight" : 1, "item" : "poptopaf"},
+				{"weight" : 1, "item" : "pteropodaf"},
+				{"weight" : 1, "item" : "pulpinaf"},
+				{"weight" : 1, "item" : "pyromantleaf"},
+				{"weight" : 1, "item" : "quagmuttaf"},
+				{"weight" : 1, "item" : "ringramaf"},
+				{"weight" : 1, "item" : "scandroidaf"},
+				{"weight" : 1, "item" : "scaveranaf"},
+				{"weight" : 1, "item" : "shockhoppermkiaf"},
+				{"weight" : 1, "item" : "skimbusaf"},
+				{"weight" : 1, "item" : "smoglinaf"},
+				{"weight" : 1, "item" : "snaggleraf"},
+				{"weight" : 1, "item" : "snauntaf"},
+				{"weight" : 1, "item" : "snuffishaf"},
+				{"weight" : 1, "item" : "spookitaf"},
+				{"weight" : 1, "item" : "sporgusaf"},
+				{"weight" : 1, "item" : "squeemaf"},
+				{"weight" : 1, "item" : "swansongaf"},
+				{"weight" : 1, "item" : "taroniaf"},
+				{"weight" : 1, "item" : "tinticaf"},
+				{"weight" : 1, "item" : "toumingoaf"},
+				{"weight" : 1, "item" : "trictusaf"},
+				{"weight" : 1, "item" : "triplodaf"},
+				{"weight" : 1, "item" : "voltipaf"},
+				{"weight" : 1, "item" : "wisperaf"},
+				{"weight" : 1, "item" : "yokataf"}
 			]
 		}]
 	]

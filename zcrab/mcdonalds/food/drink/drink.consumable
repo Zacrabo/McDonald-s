@@ -7,11 +7,11 @@
   "description" : "mcdonald's fluid.",
   "shortdescription" : "McDonald's Soda",
   "maxStack" : 1,
-  "effects" : [ [
+  "effects" : [[
     {
-        "effect" : "maxenergyscalingboostfood",
-        "duration" : 30
+			"effect" : "maxenergyscalingboostfood",
+			"duration" : 30
     }
-  ] ],
+  ]],
   "emitters" : [ "drinking" ]
 }
