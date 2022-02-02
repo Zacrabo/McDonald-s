@@ -10,16 +10,11 @@
   "foodValue" : 10,
   "tooltipKind" : "food",
   "maxStack" : 1,
-  "effects" : [ [
+  "effects" : [[
     {
-        "effect" : "weakpoison",
-        "duration" : 5
+			"effect" : "weakpoison",
+			"duration" : 5
     },
-	{
-        "effect" : "foodpoison"
-    }
-  ] ],
-  "blockingEffects" : [
-    "wellfed"
-  ]
+		"foodpoison"
+  ]]
 }
