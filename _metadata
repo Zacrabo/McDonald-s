@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "Zacrabo",
+  "tags" : "NPCs and Creatures|Dungeons|Furniture and Objects|Food and Farming",
+  "description" : "adds a \"McDonald's\" space station\n\nyou can buy a happy meal there and also food\nthe happy meal contains a random main, side, a drink and a toy\n\nthe main can be a burger, cheeseburger or chicken nuggets\nthe side can be fries or apple slices\nthe drink can be soda or chocolate milk\n\nthe toy comes in a plastic bag which you open to get a random action figure and the empty bag\n\ncredits:\npatman - invented modding, hoverbike randomizer for the parking lot and other stuff\nbrongus - submitted the customer dialog\nzacrabo - everything else",
+  "name" : "zcrab_mcdonalds",
+  "friendlyName" : "McDonald's",
+  "steamContentId" : "2750273229",
+  "link" : "steam://url/CommunityFilePage/2750273229"
+}
