@@ -5,7 +5,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt1FFOHDEQRVH2xiLZRdZIEEIiyWRou939bNc50v2Cj7G7XC8vAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwFXefvcq3dwvLd3d3iSps6ulzydpv66SPpekGp2V\/v2S6tUr\/bsl1a1H+jdLqlmv9O+WVLNe6d8tqV690r9bUq3OSP92STUaJX0OSXs3SvockvZupPRZJO3baOnzSNqzK6TPJGnPrpA+k6T9ukr6XJL260rps0naq6ulzydpn+6QPqOk9UtJn1vSeqWlzy9pjWaTvg9Jczar9L1ImqfZpe9HUr5VpO9J0r2tLH13ku5pB+k7lHR9u0nfp6Tx7Sx9t5LGVUX6niWdq6L0nUs6Fp\/S30HS8\/jTsztKfyupevzrf\/eT\/lZS5WiX\/mZS1WiX\/mZSxeiT\/m5SlRgj\/R2l3WOs9PeUdoxrpb+vtEPcL\/3NpZViHulZkGaNOaXnQpox5pWeDWm2mFt6PqSZYn7pGZFmiHWkZ0VKxprScyPdGXWkZ006E\/WkZ07qjZrScye1Rl3p2ZNao7b0\/ElHg\/QMSkeCD+k5lH4KvqRnUXoWfJeeR+lR8Eh6LqXvwTPp+ZQ+giNGzVR63rVm0Gr0HKXfgOboy09\/h7T0W1GuR478D6Sk34zuD1aWfj+yo6BF+j3p\/A6yq6gm\/QbVtqP+ZldRUfpdqn\/32FdUln6nAlql32zlgD7pt1spYIz0W145ICf9\/mcN2E96r9hRQIv0nrGngFbpvWNPAUf17AS7Ckjp2Qn2FZDSsxPsJ2Al9hOwCjsKWIk9BazIngIAAAAAAACgxTvRHuQr",
+         "data":"eJzt1GFqGzEUhVHvrYvMLrrG1JRAkrrOSNbMlfTOgQ8K6Q9L8\/RuNwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAsb3\/6JV3cby3dfW9c6U2SOrt9+\/do6fNJ2q+zpM8lqUavSv9+SfXqlf7dkurWI\/2bJdWsV\/p3S6pZr\/TvllSvXunfLalWr0j\/dkk1GiV9Dkl7N0r6HJL2bqT0WSTt22jp80jaszOkzyRpz86QPpOk\/TpL+lyS9utM6bNJ2quzpc8naZ+ukD6jpPVLSZ9b0nqlpc8vaY1mk74PSXM2q\/S9SJqn2aXvR1K+VaTvSdK1rSx9d5KuaQfpO5R0frtJ36ek8e0sfbeSxlVF+p4lvVZF6TuXdCz+Sn8HSc\/jq2d3lP5WUvX41\/\/uJ\/2tpMrRLv3NpKrRLv3NpIrRJ\/3dpCoxRvo7SrvHWOnvKe0Y50p\/X2mHuF76m0srxTzSsyDNGnNKz4U0Y8wrPRvSbDG39HxIM8X80jMizRDrSM+KlIw1pedGujLqSM+a9ErUk545qTdqSs+d1Bp1pWdPao3a0vMnHQ3SMygdCe7Scyj9FHxIz6L0LPgsPY\/So+CR9FxKn4Nn0vMp3YMjRs1Uet61ZtBq9Byl34Dm6MNPf4e09FtRrkeO\/B9ISb8ZXR+sLP1+ZEdBi\/R70us7yK6imvQbVNuO+s6uoqL0u1T\/7rGvqCz9TgW0Sr\/ZygF90m+3UsAY6be8ckBO+v3PGrCf9F6xo4AW6T1jTwGt0nvHngKO6tkJdhWQ0rMT7CsgpWcn2E\/ASuwnYBV2FLASewpYkT0FAAAAAAAAQIt3\/D3l8A==",
          "encoding":"base64",
          "height":150,
          "id":2,
@@ -19,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt1stxHDEMRVHl5iCVhWOUvZiyFpLcHzYfQZxTdfcDEs2atzcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgKe9\/+iVN7rdKN9u7JN3oaen5JO3bSOlZJPXprvTvl9Sru9K\/X1KvRkjPIKlHI6RnkNSjUdJzSNq\/kdKzSNq30dLzSNqzJ6RnkrRPT0rPJql+s6TnlFS7mdKzSqrdTOlZJdVttvS8kuo2W3peSXVLSc8tqV5J6dkl1Wo16fOQtG6rS5+PpDWqJH1WkrJVkz4vSbmqSZ+XpExVpc9N0px2kD5DSc+1o\/SZShpTB+kzlnS9jtJnLul83f10Jum7kfQvjknfk9Q9zknfl9Q1zkvfmdQxrknfm9QxrkvfndQp7kvfodQl7kvfobR7jJW+T2mneF76jqXKMVf6vqVKsab0XkgrxfrSOyKtEjWk90RaIepJ74yUivrSOyTNin2kd0l6MvaT3ilpdOwvvWPSiOghvWfS3eglvW\/S1egpvXfS2egtvX\/S0SC9g9KR4CW9i9J3wVfSeyl9FXwnvZvS5+CI9J5Kf4Oj0ruq3sFZ6Z1Vz+Cq9O6qTzBCeo+1V\/C09I6rTrCSq3ua\/o7knaKnq7ua\/qbkrYIr0t+YvEdwRvo77BxwXvq77RZwXfr77RQwRvpb3j3gWelvfJeANaTfgtUD1pR+G1YLqCH9VqwQUFP67fBWAU9IvzVH3hxvFfCy4ht19HcCPa3wJp39jQAvK7xRP\/0mgP9J\/8\/xVgEAAAAAAAAAAAAAAHd8AIyXZxI=",
+         "data":"eJzt1stxHDEMRVHl5iCVhWO0tZiSF5LcHzYfQZxTdfdDEo2atzcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgKe9\/+yVN7rdK97E3ZnqXpAE9JX0uSfs2Uvoskvp0V\/r3S+rVXenfL6lXI6TPIKlHI6TPIKlHo6TPIWn\/RkqfRdK+jZY+j6Q9e0L6TJL26Unps0mq3yzpc0qq3Uzps0qq3Uzps0qq22zp80qq22zp80qqW0r63JLqlZQ+u6RarSZ9H5LWbXXp+5G0RpWk70pStmrS9yUpVzXp+5KUqar0vUma0w7SdyjpuXaUvlNJY+ogfceSrtdR+s4lna+7n+4k\/TaSPuOY9DtJ3eOc9HtJXeO89JtJHeOa9LtJHeO69NtJneK+9BtKXeK+9BtKu8dY6feUdornpd9Yqhxzpd9bqhRrSs+FtFKsLz0j0ipRQ3pOpBWinvTMSKmoLz1D0qzYR3qWpCdjP+mZkkbH\/tIzJo2IHtJzJt2NXtLzJl2NntJzJ52N3tLzJx0N0jMoHQle0rMofRd8JT2X0lfBd9KzKf0bHJGeU+kjOCo9q+odnJWeWfUMrkrPrvoEI6TnWHsFT0vPuOoEK7k6p+nvSPYUPV2d1fQ3JbsKrkh\/Y7KP4Iz0d9g54Lz0d9st4Lr099spYIz0t7x7wLPS3\/guAWtI74LVA9aU3g2rBdSQ3hUrBNSU3h12FfCE9K45snPsKuBlxR119HcCPa2wk87+RoCXFXbUT78J4H\/S\/3PsKgAAAAAAAAAAAAAA4I4\/t7Zo1w==",
          "encoding":"base64",
          "height":150,
          "id":3,
@@ -38,33 +38,12 @@
          "objects":[
                 {
                  "height":8,
-                 "id":228,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, human, hylotl",
-                     "typeName":"spacevillager"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":1568,
-                 "y":472
-                }, 
-                {
-                 "height":8,
                  "id":229,
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex, avian, human, hylotl",
-                     "typeName":"spacevillager"
+                     "npc":"apex, avian, floran, glitch, human, hylotl, novakid",
+                     "typeName":"zcrab_mcdonaldsspacecustomer"
                     },
                  "propertytypes":
                     {
@@ -75,8 +54,247 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":2056,
-                 "y":472
+                 "x":1808,
+                 "y":464
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":7,
+         "name":"stagehands",
+         "objects":[
+                {
+                 "height":8,
+                 "id":232,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":344,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":233,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":416,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":234,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":512,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":236,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":584,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":237,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":680,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":238,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":752,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":239,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":848,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":240,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":920,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":241,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":1016,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":242,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":1088,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":243,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":1184,
+                 "y":464
+                }, 
+                {
+                 "height":8,
+                 "id":244,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"zcrab_mcdonalds_randomvehicle"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":1256,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -114,6 +332,14 @@
                  "height":37,
                  "id":2,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"zcrab_mcdonaldstrash\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -148,11 +374,19 @@
                  "height":16,
                  "id":53,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":2176,
+                 "x":2168,
                  "y":480
                 }, 
                 {
@@ -160,6 +394,14 @@
                  "height":16,
                  "id":54,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -172,6 +414,14 @@
                  "height":20,
                  "id":55,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -184,11 +434,19 @@
                  "height":20,
                  "id":56,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":2216,
+                 "x":2208,
                  "y":480
                 }, 
                 {
@@ -196,11 +454,19 @@
                  "height":20,
                  "id":57,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":2160,
+                 "x":2152,
                  "y":480
                 }, 
                 {
@@ -208,6 +474,14 @@
                  "height":20,
                  "id":58,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -220,6 +494,14 @@
                  "height":16,
                  "id":59,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -232,6 +514,14 @@
                  "height":20,
                  "id":60,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -244,6 +534,14 @@
                  "height":20,
                  "id":61,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -256,6 +554,14 @@
                  "height":56,
                  "id":190,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,6 +574,14 @@
                  "height":56,
                  "id":191,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -280,6 +594,14 @@
                  "height":56,
                  "id":193,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -292,6 +614,14 @@
                  "height":56,
                  "id":195,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -304,6 +634,14 @@
                  "height":56,
                  "id":196,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -316,6 +654,14 @@
                  "height":56,
                  "id":198,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -328,6 +674,14 @@
                  "height":56,
                  "id":199,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -340,6 +694,14 @@
                  "height":56,
                  "id":208,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -348,15 +710,43 @@
                  "y":480
                 }, 
                 {
+                 "gid":3978,
+                 "height":56,
+                 "id":245,
+                 "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":1760,
+                 "y":480
+                }, 
+                {
                  "gid":972,
                  "height":16,
                  "id":210,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":2080,
+                 "x":2072,
                  "y":480
                 }, 
                 {
@@ -364,11 +754,19 @@
                  "height":20,
                  "id":211,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":2064,
+                 "x":2056,
                  "y":480
                 }, 
                 {
@@ -376,11 +774,19 @@
                  "height":20,
                  "id":212,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":2120,
+                 "x":2112,
                  "y":480
                 }, 
                 {
@@ -388,23 +794,39 @@
                  "height":56,
                  "id":213,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":2144,
+                 "x":2136,
                  "y":480
                 }, 
                 {
                  "gid":3978,
                  "height":56,
-                 "id":214,
+                 "id":246,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":1824,
+                 "x":2232,
                  "y":480
                 }, 
                 {
@@ -412,11 +834,19 @@
                  "height":16,
                  "id":215,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":1984,
+                 "x":1976,
                  "y":480
                 }, 
                 {
@@ -424,11 +854,19 @@
                  "height":20,
                  "id":216,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":1968,
+                 "x":1960,
                  "y":480
                 }, 
                 {
@@ -436,11 +874,19 @@
                  "height":20,
                  "id":217,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":2024,
+                 "x":2016,
                  "y":480
                 }, 
                 {
@@ -448,11 +894,19 @@
                  "height":56,
                  "id":218,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":2048,
+                 "x":2040,
                  "y":480
                 }, 
                 {
@@ -460,11 +914,19 @@
                  "height":16,
                  "id":219,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldstable"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":1888,
+                 "x":1880,
                  "y":480
                 }, 
                 {
@@ -472,11 +934,19 @@
                  "height":20,
                  "id":220,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":1872,
+                 "x":1864,
                  "y":480
                 }, 
                 {
@@ -484,11 +954,19 @@
                  "height":20,
                  "id":221,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_mcdonaldsstool"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":14,
-                 "x":1928,
+                 "x":1920,
                  "y":480
                 }, 
                 {
@@ -496,11 +974,19 @@
                  "height":56,
                  "id":222,
                  "name":"",
+                 "properties":
+                    {
+                     "object":"zcrab_lamppost"
+                    },
+                 "propertytypes":
+                    {
+                     "object":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":1952,
+                 "x":1944,
                  "y":480
                 }, 
                 {
@@ -524,42 +1010,28 @@
                  "y":480
                 }, 
                 {
+                 "gid":3620,
                  "height":8,
-                 "id":230,
+                 "id":247,
                  "name":"",
-                 "properties":
-                    {
-                     "vehicle":"hoverbikekhaki"
-                    },
-                 "propertytypes":
-                    {
-                     "vehicle":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":8,
-                 "x":1056,
-                 "y":464
+                 "width":7,
+                 "x":136,
+                 "y":488
                 }, 
                 {
+                 "gid":2147487268,
                  "height":8,
-                 "id":231,
+                 "id":249,
                  "name":"",
-                 "properties":
-                    {
-                     "vehicle":"hoverbikered"
-                    },
-                 "propertytypes":
-                    {
-                     "vehicle":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":8,
-                 "x":720,
-                 "y":464
+                 "width":7,
+                 "x":2312,
+                 "y":488
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -590,8 +1062,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
- "nextobjectid":232,
+ "nextlayerid":8,
+ "nextobjectid":250,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
