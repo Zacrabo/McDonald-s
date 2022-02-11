@@ -42,7 +42,7 @@
   "scriptDelta" : 60,
 
   "spawnInterval" : [40, 180],
-  "spawnOffset" : [-1, 3.5],
+  "spawnOffset" : [0, 3.5],
 
   "npctypes" : [
 	{
@@ -54,31 +54,59 @@
       "species" : [ "human" ]
     },
 	{
-      "type" : "spacevillager",
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
     },
 	{
-      "type" : "villager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
     },
 	{
-      "type" : "villager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
     },
 	{
-      "type" : "spacevillager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl", "avian" ]
     },
 	{
-      "type" : "spacevillager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl" ]
     },
 	{
-      "type" : "spacevillager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex" ]
     },
 	{
-      "type" : "villager",
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
       "species" : [ "human" ]
     },
 	{
@@ -100,6 +128,110 @@
 	{
       "type" : "froggvisitor",
       "species" : [ "hylotl" ]
+    },
+    {
+      "type" : "alpacavisitor",
+      "species" : [ "human" ]
+    },
+    {
+      "type" : "alpacavisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "colourfulvisitor",
+      "species" : [ "glitch" ]
+    },
+	{
+      "type" : "colourfulvisitor",
+      "species" : [ "glitch" ]
+    },
+	{
+      "type" : "eyeknightvisitor",
+      "species" : [ "glitch" ]
+    },
+    {
+      "type" : "eyeknightvisitor",
+      "species" : [ "glitch" ]
+    },
+    {
+      "type" : "foundryvisitor",
+      "species" : [ "human" ]
+    },
+    {
+      "type" : "foundryvisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "hazmatvisitor",
+      "species" : [ "human", "apex", "hylotl" ]
+    },
+	{
+      "type" : "hazmatvisitor",
+      "species" : [ "human", "apex", "hylotl" ]
+    },
+    {
+      "type" : "inventorvisitor",
+      "species" : [ "glitch" ]
+    },
+    {
+      "type" : "inventorvisitor",
+      "species" : [ "glitch" ]
+    },
+    {
+      "type" : "maggotmanvisitor",
+      "species" : [ "human" ]
+    },
+    {
+      "type" : "maggotmanvisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "piratevisitor",
+      "species" : [ "avian" ]
+    },
+	{
+      "type" : "piratevisitor",
+      "species" : [ "avian" ]
+    },
+	{
+      "type" : "rebelvisitor",
+      "species" : [ "apex" ]
+    },
+	{
+      "type" : "rebelvisitor",
+      "species" : [ "apex" ]
+    },
+	{
+      "type" : "samuraivisitor",
+      "species" : [ "hylotl" ]
+    },
+	{
+      "type" : "samuraivisitor",
+      "species" : [ "hylotl" ]
+    },
+	{
+      "type" : "socialitevisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "socialitevisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "spacepioneervisitor",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "spacepioneervisitor",
+      "species" : [ "human" ]
+    },
+    {
+      "type" : "wizardvisitor",
+      "species" : [ "glitch" ]
+    },
+    {
+      "type" : "wizardvisitor",
+      "species" : [ "glitch" ]
     }
   ]
 }
