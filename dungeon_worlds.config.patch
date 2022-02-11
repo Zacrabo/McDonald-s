@@ -10,7 +10,7 @@
       "dungeonBaseHeight": 1000,
       "ambientLightLevel": [128, 128, 128],
       "ambientNoises": "/sfx/environmental/space_loop4.ogg",
-      "musicTrack": "/music/planetarium.ogg",
+      "musicTrack": "/zcrab/mcdonalds/music/mcdonalds.ogg",
       "biome": "space"
     }
   }
