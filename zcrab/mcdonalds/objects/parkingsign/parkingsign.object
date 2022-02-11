@@ -1,6 +1,7 @@
 {
   "objectName" : "zcrab_parkingsign",
   "colonyTags" : ["scorched"],
+  "printable" : true,
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 100,
@@ -21,7 +22,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "parkingsign.png:<color>",
+      "image" : "parkingsignright.png:<color>",
       "imagePosition" : [-6, 0],
 
       "direction" : "right",
