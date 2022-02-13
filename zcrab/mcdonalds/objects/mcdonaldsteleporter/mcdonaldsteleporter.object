@@ -58,15 +58,7 @@
       "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
     },
 	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
-      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
-    },
-	{
       "type" : "zcrab_mcdonaldscustomer",
-      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
-    },
-	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
       "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
     },
 	{
@@ -74,15 +66,7 @@
       "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
     },
 	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
-      "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
-    },
-	{
       "type" : "zcrab_mcdonaldscustomer",
-      "species" : [ "human", "apex", "hylotl", "avian" ]
-    },
-	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
       "species" : [ "human", "apex", "hylotl", "avian" ]
     },
 	{
@@ -90,15 +74,7 @@
       "species" : [ "human", "apex", "hylotl" ]
     },
 	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
-      "species" : [ "human", "apex", "hylotl" ]
-    },
-	{
       "type" : "zcrab_mcdonaldscustomer",
-      "species" : [ "human", "apex" ]
-    },
-	{
-      "type" : "zcrab_mcdonaldsspacecustomer",
       "species" : [ "human", "apex" ]
     },
 	{
@@ -107,6 +83,58 @@
     },
 	{
       "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "glitch", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian", "novakid" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl", "avian" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex", "hylotl" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsspacecustomer",
+      "species" : [ "human", "apex" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human" ]
     },
 	{
