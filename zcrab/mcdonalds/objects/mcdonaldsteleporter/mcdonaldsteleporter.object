@@ -38,10 +38,10 @@
 
   "teleporterFootPosition" : [0, 1],
 
-  "scripts" : [ "/objects/outpost/2stopteleshop/2stoptele.lua" ],
+  "scripts" : [ "mcdonaldsteleporter.lua" ],
   "scriptDelta" : 60,
 
-  "spawnInterval" : [40, 180],
+  "spawnInterval" : [30, 160],
   "spawnOffset" : [0, 3.5],
 
   "npctypes" : [
@@ -54,6 +54,14 @@
       "species" : [ "human" ]
     },
 	{
+      "type" : "zcrab_mcdonaldsvaultkeytrader",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldssanta",
+      "species" : [ "human" ]
+    },
+	{
       "type" : "zcrab_mcdonaldscustomer",
       "species" : [ "human", "apex", "hylotl", "avian", "glitch", "floran", "novakid" ]
     },
@@ -260,6 +268,50 @@
     {
       "type" : "wizardvisitor",
       "species" : [ "glitch" ]
+    },
+    {
+      "type" : "zcrab_mcdonaldsoffice",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldsoffice",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldshumanprison",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldshumanprison",
+      "species" : [ "human" ]
+    },
+	{
+      "type" : "crewkinvisitor",
+      "species" : [ "crewkin" ]
+    },
+	{
+      "type" : "crewkinvisitor",
+      "species" : [ "crewkin" ]
+    },
+	{
+      "type" : "crewkinvisitor",
+      "species" : [ "crewkin" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldserm",
+      "species" : [ "avikan", "akkimari", "aegi", "trink" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldserm",
+      "species" : [ "avikan", "akkimari" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldserm",
+      "species" : [ "avikan", "aegi" ]
+    },
+	{
+      "type" : "zcrab_mcdonaldserm",
+      "species" : [ "trink", "aegi" ]
     }
   ]
 }

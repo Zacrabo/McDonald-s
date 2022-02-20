@@ -35,28 +35,7 @@
          "draworder":"topdown",
          "id":6,
          "name":"monsters & npcs",
-         "objects":[
-                {
-                 "height":8,
-                 "id":229,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, floran, glitch, human, hylotl, novakid",
-                     "typeName":"zcrab_mcdonaldsspacecustomer"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":1808,
-                 "y":464
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
