@@ -37,11 +37,12 @@
 	"zcrab_happymealtoywrapper": [
 		[1, {
 			"fill": [
-				{"pool": "zcrab_happymealtoy"},
+//			{"pool": "zcrab_happymealtoy"},
 				{"item": "zcrab_emptywrapper"}
 			]
 		}]
 	],
+/*
 	"zcrab_happymealtoy": [
 		[1, {
 			"pool": [
@@ -117,6 +118,7 @@
 			]
 		}]
 	],
+*/
 	"zcrab_mcdonaldstrash": [
 		[0, {
 		"poolRounds" : [

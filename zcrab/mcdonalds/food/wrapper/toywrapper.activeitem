@@ -13,7 +13,7 @@
   "inventoryIcon" : "toywrappericon.png",
   "animation" : "toywrapper.animation",
   "animationCustom" : {},
-  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+  "scripts" : ["toywrapper.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],
