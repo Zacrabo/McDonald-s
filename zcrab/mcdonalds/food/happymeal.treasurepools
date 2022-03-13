@@ -122,14 +122,16 @@
 	"zcrab_mcdonaldstrash": [
 		[0, {
 		"poolRounds" : [
-        [0.6, 2],
-        [0.4, 2]
+		[0.8, 2],
+        [0.6, 1],
+        [0.4, 3]
       ],
 			"pool": [
 				{"weight" : 1.6, "item": "soggypaper"},
-				{"weight" : 1.4, "pool": "money"},
+				{"weight" : 1.7, "item": "rottenfood"},
+				{"weight" : 1.5, "pool": "money"},
 				{"weight" : 1, "pool": "zcrab_happymealburger"},
-				{"weight" : 1, "pool": "zcrab_happymealside"},
+				{"weight" : 1.1, "pool": "zcrab_happymealside"},
 				{"weight" : 1, "pool": "zcrab_happymealdrink"},
 				{"weight" : 1.5, "item": "zcrab_emptywrapper"}
 			]
