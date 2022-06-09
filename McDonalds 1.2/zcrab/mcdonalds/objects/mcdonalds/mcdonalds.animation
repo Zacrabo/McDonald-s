@@ -1,0 +1,69 @@
+{
+	"globalTagDefaults" : {},
+	
+  "animatedParts" : {
+		"stateTypes" : {
+			"frog" : {
+				"default" : "frog",
+				"states" : {
+					"frog" : {
+						"frames" : 8,
+						"cycle" : 2,
+						"mode" : "loop"
+					}
+				}
+			}
+		},
+		
+    "parts" : {
+      "mcdonaldslit" : {
+        "properties" : {
+					"zLevel" : 0,
+          "centered" : false,
+					"fullbright" : true,
+					"image" : "mcdonaldslit.png"
+        }
+      },
+      "mcdonalds" : {
+        "properties" : {
+					"zLevel" : 1,
+          "centered" : false,
+					"image" : "mcdonalds.png"
+        }
+      },
+      "signback" : {
+        "properties" : {
+					"zLevel" : 2,
+					"offset" : [4, 6],
+          "centered" : false,
+					"image" : "<partImage>"
+        }
+      },
+      "sign" : {
+        "properties" : {
+					"zLevel" : 3,
+					"offset" : [4, 6],
+          "centered" : false,
+					"fullbright" : true,
+					"image" : "<partImage>"
+        }
+      },
+      "frog" : {
+        "properties" : {
+					"zLevel" : 4,
+					"offset" : [12.625, 2.125],
+          "centered" : false,
+					"fullbright" : true
+        },
+
+        "partStates" : {
+          "frog" : {
+            "frog" : {
+              "properties" : {"image" : "frog.png:<frame>"}
+            }
+					}
+				}
+      }
+    }
+  }
+}

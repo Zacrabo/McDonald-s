@@ -1,0 +1,36 @@
+{
+  "type" : "zcrab_mcdonaldscrewkin",
+  "baseType" : "outpostvisitor",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Don't worry, you'll be safe with me around ;)",
+            "I am not an imposter I swear!",
+            "You're sussy.",
+			"Do not order the Among Us Happy Meal from McDonald's at 3 AM"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "crewkinnudehead" } ],
+            "chest" : [ { "name" : "crewkinnudechest" } ],
+            "legs" : [ { "name" : "crewkinnudelegs" } ]
+          },
+		  {
+            "head" : [ { "name" : "crewkinbananahead" }, { "name" : "crewkinbeaniehead" }, { "name" : "crewkinbearhead" }, { "name" : "crewkincheesehead" }, { "name" : "crewkincherryhead" }, { "name" : "crewkinegghead" }, { "name" : "crewkinflamingohead" }, { "name" : "crewkinflowerhead" }, { "name" : "crewkinleaveshead" }, { "name" : "crewkinmouthhead" }, { "name" : "crewkinmouth2head" }, { "name" : "crewkinnotehead" }, { "name" : "crewkinplungerhead" } ],
+            "chest" : [ { "name" : "crewkinnudechest" } ],
+            "legs" : [ { "name" : "crewkinnudelegs" } ]
+          }
+      ]]
+    ]
+  }
+}
