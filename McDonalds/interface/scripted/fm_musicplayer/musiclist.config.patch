@@ -1,0 +1,13 @@
+[
+  {
+  "op":"test",
+  "path":"/interface/scripted/fm_musicplayer",
+  "inverse": true
+  },
+  
+	{
+		"op" : "add",
+		"path" : "/##files##/-",
+		"value" : "/interface/scripted/fm_musicplayer/zcrab_mcdonalds.config"
+	}
+]

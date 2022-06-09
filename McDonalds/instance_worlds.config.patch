@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/zcrab_mcdonalds",
+    "value": {
+      "type": "FloatingDungeon",
+      "dungeonWorld": "zcrab_mcdonalds",
+      "spawningEnabled": false,
+      "beamUpRule": "Anywhere",
+	  "persistent" : true,
+      "disableDeathDrops": true,
+	  "worldProperties" : {
+      "nonCombat" : true
+    },
+      "skyParameters": {
+        "dayLength" : 1153.36,
+      "surfaceLevel" : 1200,
+        "spaceLevel": 3000,
+        "seed": -5288806180628667000,
+        "skyType": "barren"
+      }
+    }
+  }
+]
