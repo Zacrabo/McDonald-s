@@ -1,0 +1,28 @@
+{
+  "itemName" : "zcrab_bigmac",
+  "rarity" : "Legendary",
+  "price" : 875,
+  "category" : "preparedFood",
+  "inventoryIcon" : "bigmac.png",
+  "description" : "approximately 17 Big Macs are sold every second.",
+  "shortdescription" : "Big Mac",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 4
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 4
+    }
+  ] ],
+  "foodValue" : 190,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

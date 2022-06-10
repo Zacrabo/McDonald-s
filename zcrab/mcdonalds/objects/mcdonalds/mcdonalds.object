@@ -28,7 +28,8 @@
 			{ "item" : "zcrab_fries" },
 			{ "item" : "zcrab_appleslices" },
 			{ "item" : "zcrab_mcdonaldsdrink" },
-			{ "item" : "zcrab_chocolatemilk" }
+			{ "item" : "zcrab_chocolatemilk" },
+			{ "item" : "zcrab_bigmac" }
 		]
   },
 	
