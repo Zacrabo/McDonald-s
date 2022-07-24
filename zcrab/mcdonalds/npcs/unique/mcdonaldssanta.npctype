@@ -8,6 +8,7 @@
   },
 
   "scriptConfig" : {
+    "dialogMode": "tutorial",
     "dialog" : {
       "converse" : {
         "default" : {
@@ -17,7 +18,8 @@
             "Drink Coca-Cola, delicious and refreshing.",
 			"Without a Coca-Cola life is unthinkable.",
 			"Things go better with Coke.",
-			"Coca-Cola sold only 25 bottles in its first year. Never give up!"
+			"Coca-Cola sold only 25 bottles in its first year. Never give up!",
+			"Coca-Cola hired hitmen from a prominent paramilitary group to kill trade union leaders."
           ]
         }
       }
