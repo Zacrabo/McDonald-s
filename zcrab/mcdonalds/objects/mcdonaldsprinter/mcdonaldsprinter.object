@@ -1,7 +1,7 @@
 {
   "objectName" : "zcrab_mcdonaldsprinter",
   "colonyTags" : [],
-  "rarity" : "Uncommon",
+  "rarity" : "Rare",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/zcrab/mcdonalds/objects/mcdonaldsprinter/mcdonaldsprinter.config",
