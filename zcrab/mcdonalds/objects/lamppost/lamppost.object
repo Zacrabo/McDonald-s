@@ -12,7 +12,7 @@
   "lightColor" : [229, 229, 202],
   "pointLight" : true,
   "pointBeam" : 0.6,
-  "beamAmbience" : 0.45,
+  "beamAmbience" : 0.35,
 
   "inventoryIcon" : "lampposticon.png",
   "orientations" : [
