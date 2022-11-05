@@ -3,6 +3,7 @@
   "colonyTags" : ["outpost","commerce"],
   "rarity" : "Legendary",
   "category" : "other",
+  "price" : 3000,
   "description" : "mcdonald's and you",
   "shortdescription" : "McDonald's",
   "race" : "generic",
