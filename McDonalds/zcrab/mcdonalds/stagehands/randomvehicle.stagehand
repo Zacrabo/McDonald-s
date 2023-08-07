@@ -1,6 +1,0 @@
-{
-  "type" : "zcrab_mcdonalds_randomvehicle",
-  "scripts" : ["/zcrab/mcdonalds/stagehands/randomvehicle.lua"],
-  "scriptDelta" : 0,
-	"vehicles" : ["hoverbikekhaki", "hoverbikered", "hoverbikegreen"]
-}

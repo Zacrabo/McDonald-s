@@ -1,0 +1,10 @@
+{
+  "currencyInputs" : {
+    "money" : 3000
+  },
+  "input" : [
+    { "item" : "teleportercore", "count" : 1 }
+  ],
+  "output" : { "item" : "zcrab_mcdonaldshometeleporter", "count" : 1 },
+  "groups" : [ "zcrab_mcprinter" ]
+}

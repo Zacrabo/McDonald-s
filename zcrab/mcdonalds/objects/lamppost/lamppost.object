@@ -1,0 +1,58 @@
+{
+  "objectName" : "zcrab_lamppost",
+  "colonyTags" : ["light"],
+  "printable" : true,
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 110,
+  "description" : "A not magenta street lamp post. Not magenta, it sure looks cool.",
+  "shortdescription" : "Lamp Post",
+  "race" : "generic",
+
+  "lightColor" : [229, 229, 202],
+  "pointLight" : true,
+  "pointBeam" : 0.6,
+  "beamAmbience" : 0.35,
+
+  "inventoryIcon" : "lampposticon.png",
+  "orientations" : [
+    {
+      "image" : "lamppost.png:<color>.<frame>",
+      "imagePosition" : [-14, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [0.5, 5.5],
+      "beamAngle" : 270,
+      "animationPosition" : [-14, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "lamppost.png:<color>.<frame>",
+      "imagePosition" : [-14, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0.5, 5.5],
+      "beamAngle" : 270,
+      "animationPosition" : [-14, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "lamppost.png",
+    "fg" : "lamppostlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 5] ]
+}

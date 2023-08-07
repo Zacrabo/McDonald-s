@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 100 }
+  ],
+  "output" : { "item" : "zcrab_parkingsign", "count" : 1 },
+  "groups" : [ "zcrab_mcprinter" ]
+}
