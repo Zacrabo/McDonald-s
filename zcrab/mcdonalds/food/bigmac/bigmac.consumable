@@ -9,14 +9,14 @@
   "effects" : [ [
     {
         "effect" : "maxhealthscalingboostfood",
-        "duration" : 4
+        "duration" : 42
     },
     {
         "effect" : "maxenergyscalingboostfood",
-        "duration" : 4
+        "duration" : 42
     }
   ] ],
-  "foodValue" : 190,
+  "foodValue" : 125,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
