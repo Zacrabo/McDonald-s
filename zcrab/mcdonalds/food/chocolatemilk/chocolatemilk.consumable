@@ -4,7 +4,7 @@
   "price" : 40,
   "category" : "drink",
   "inventoryIcon" : "chocolatemilk.png",
-  "description" : "choccy",
+  "description" : "you can have chocolate milk as a drink for your happy meal :)",
   "shortdescription" : "Chocolate Milk",
   "foodValue" : 10,
   "tooltipKind" : "food",

@@ -4,7 +4,7 @@
   "rarity" : "Legendary",
   "category" : "other",
   "price" : 3000,
-  "description" : "mcdonald's and you",
+  "description" : "hammed burger",
   "shortdescription" : "McDonald's",
   "race" : "generic",
   "printable" : false,
@@ -16,10 +16,10 @@
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "McDonald's",
-        "subtitle" : "^#b9b5b2;hammed burger"
+        "subtitle" : "^#b9b5b2;over 99 billion served"
       }
     },
-    "buyFactor" : 1.5,
+    "buyFactor" : 1.8,
     "sellFactor" : 0.2,
     "items" : [
 			{ "item" : "zcrab_happymeal" },
