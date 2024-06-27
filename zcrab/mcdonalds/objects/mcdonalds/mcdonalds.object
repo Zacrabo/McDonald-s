@@ -19,7 +19,7 @@
         "subtitle" : "^#b9b5b2;over 99 billion served"
       }
     },
-    "buyFactor" : 1.5,
+    "buyFactor" : 1.8,
     "sellFactor" : 0.2,
     "items" : [
 			{ "item" : "zcrab_happymeal" },
