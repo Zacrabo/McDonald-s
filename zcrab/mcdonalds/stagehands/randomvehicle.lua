@@ -1,8 +1,9 @@
 function init()
-	local vehicles = config.getParameter("vehicles", {})
-	if math.random() > 0.5 then
-		local v = vehicles[math.random(1, #vehicles)]
-		world.spawnVehicle(v, entity.position(), {ownerKey = sb.makeUuid()})
+	local chance = config.getParameter("vehicleChance", 0.5)
+	if math.random() > chance then
+		local list = config.getParameter("vehicles", {})
+		local name = vehicles[math.random(1, #list)]
+		world.spawnVehicle(name, entity.position(), {ownerKey = sb.makeUuid()})
 	end
 	stagehand.die()
 end
