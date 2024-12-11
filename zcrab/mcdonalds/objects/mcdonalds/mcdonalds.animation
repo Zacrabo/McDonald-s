@@ -21,14 +21,14 @@
 					"zLevel" : 0,
           "centered" : false,
 					"fullbright" : true,
-					"image" : "mcdonaldslit.png"
+					"image" : "<partImage>"
         }
       },
       "mcdonalds" : {
         "properties" : {
 					"zLevel" : 1,
           "centered" : false,
-					"image" : "mcdonalds.png"
+					"image" : "<partImage>"
         }
       },
       "signback" : {

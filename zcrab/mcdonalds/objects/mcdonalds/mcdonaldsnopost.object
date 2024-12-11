@@ -79,11 +79,13 @@
   ],
 
 	"animationParts" : {
+    "mcdonaldslit" : "mcdonaldsnopostlit.png",
+    "mcdonalds" : "mcdonaldsnopost.png",
     "signback" : "signback.png",
 		"sign" : "signright.png"
 	},
 	
-	"animation" : "mcdonaldsnopost.animation",
+	"animation" : "mcdonalds.animation",
   "animationPosition" : [-64, 0],
 	
 	"scripts" : ["mcdonalds.lua"]

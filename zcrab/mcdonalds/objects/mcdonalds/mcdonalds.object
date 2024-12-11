@@ -81,6 +81,8 @@
   ],
 
 	"animationParts" : {
+    "mcdonaldslit" : "mcdonaldslit.png",
+    "mcdonalds" : "mcdonalds.png",
     "signback" : "signback.png",
 		"sign" : "signright.png"
 	},
