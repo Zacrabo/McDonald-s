@@ -18,26 +18,26 @@
   "orientations" : [
     {
       "image" : "lamppost.png:<color>.<frame>",
-      "imagePosition" : [-14, 0],
+      "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
       "direction" : "left",
       "flipImages" : true,
       "lightPosition" : [0.5, 5.5],
       "beamAngle" : 270,
-      "animationPosition" : [-14, 0],
+      "animationPosition" : [-16, 0],
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     },
     {
       "image" : "lamppost.png:<color>.<frame>",
-      "imagePosition" : [-14, 0],
+      "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
       "direction" : "right",
       "lightPosition" : [0.5, 5.5],
       "beamAngle" : 270,
-      "animationPosition" : [-14, 0],
+      "animationPosition" : [-16, 0],
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
