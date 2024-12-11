@@ -15,9 +15,6 @@
   "animationCustom" : {},
   "scripts" : ["toywrapper.lua"],
 
-  "fireTime" : 2.0,
-  "fireOffset" : [1.0, 0.0],
-
   "treasure" : {
     "pool" : "zcrab_happymealtoywrapper",
     "level" : 1
