@@ -1,6 +1,6 @@
 function init()
   local chance = config.getParameter("spawnChance", 0.5)
-  if sb.makeRandomSource():randf() < chance then
+  if sb.makeRandomSource():randf() > chance then
     return
   end
 
