@@ -3,5 +3,5 @@
   "scripts": [ "/zcrab/mcdonalds/stagehands/randomvisitor.lua" ],
   "scriptDelta": 0,
   "teleporterUniqueId": "zcrab_mcdonalds_visitorteleporter",
-  "spawnChance": 0.15
+  "spawnChance": 0.33
 }
