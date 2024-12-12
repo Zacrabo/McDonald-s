@@ -67,14 +67,14 @@
   },
   "tiles": {
     "0": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonalds\/mcdonaldslit.png" },
-    "1": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldspost\/mcdonaldspost.png" },
+    "1": { "image": "mcdonaldspost.png" },
     "2": { "image": "teleporter_visitors.png" },
     "3": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsteleporter\/mcdonaldsteleporter.png" },
     "4": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsstool\/mcdonaldsstool.png" },
     "5": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldstable\/mcdonaldstable.png" },
     "6": { "image": "lamppost.png" },
     "7": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/parkingsign\/parkingsignright.png" },
-    "8": { "image": "radio.png" },
+    "8": { "image": "mcdonaldsradio.png" },
     "9": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsprinter\/mcdonaldsprinter.png" }
   }
 }

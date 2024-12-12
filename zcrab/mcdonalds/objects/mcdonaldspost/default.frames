@@ -5,5 +5,9 @@
     "names": [
       [ "default" ]
     ]
+  },
+  "aliases": {
+    "default.on": "default",
+    "default.off": "default"
   }
 }

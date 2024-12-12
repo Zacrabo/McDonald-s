@@ -1,11 +1,11 @@
 {
   "objectName": "zcrab_mcdonaldspost",
-  "colonyTags": [ "commerce", "outpost" ],
+  "colonyTags": [ "commerce", "outpost", "light" ],
   "rarity": "Common",
   "description": "power",
   "shortdescription": "McDonald's Sign",
   "race": "generic",
-  "category": "decorative",
+  "category": "light",
   "price": 150,
 
   "lightColor": [ 120, 90, 50 ],
@@ -29,5 +29,19 @@
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     }
-  ]
+  ],
+
+  "animationPosition": [ -16, 0 ],
+  "animation": "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts": {
+    "bg": "mcdonaldspost.png",
+    "fg": "mcdonaldspostlit.png"
+  },
+
+  "scripts": [ "/objects/wired/light/light.lua" ],
+  "scriptDelta": 60,
+
+  "interactive": false,
+
+  "inputNodes": [ [ 0, 10 ] ]
 }
