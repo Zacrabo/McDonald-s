@@ -11,30 +11,14 @@
   "inventoryIcon": "mcdonaldsstoolicon.png",
   "orientations": [
     {
-      "image": "mcdonaldsstool.png:<color>",
+      "dualImage": "mcdonaldsstool.png:<color>",
       "imagePosition": [ -8, 0 ],
-      "frames": 1,
-      "animationCycle": 0.5,
-      "direction": "left",
-      "flipImages": true,
-      "sitPosition": [ 3, 21 ],
-
-      "spaceScan": 0.1,
-      "anchors": [ "bottom" ]
-    },
-    {
-      "image": "mcdonaldsstool.png:<color>",
-      "imagePosition": [ -8, 0 ],
-      "frames": 1,
-      "animationCycle": 0.5,
-      "direction": "right",
-      "sitPosition": [ 1, 21 ],
-
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     }
   ],
 
   "objectType": "loungeable",
-  "sitFlipDirection": false
+  "sitFlipDirection": false,
+  "sitPosition": [ 2, 21 ]
 }

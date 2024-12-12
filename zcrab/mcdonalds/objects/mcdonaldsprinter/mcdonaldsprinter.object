@@ -22,37 +22,25 @@
   "race": "generic",
   "category": "crafting",
   "price": 1000,
+
   "lightColor": [ 114, 30, 30 ],
+  "lightPosition": [ 0, 1 ],
 
   "inventoryIcon": "mcdonaldsprintericon.png",
 
   "orientations": [
     {
       "imageLayers": [ { "image": "mcdonaldsprinterflipped.png:<color>", "fullbright": true }, { "image": "mcdonaldsprinterlit.png:<color>" } ],
-
       "imagePosition": [ -8, 0 ],
-      "frames": 1,
-      "animationCycle": 1.0,
-
-      "lightPosition": [ 0, 1 ],
-
       "direction": "left",
       "flipImages": true,
-
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     },
     {
       "imageLayers": [ { "image": "mcdonaldsprinter.png:<color>", "fullbright": true }, { "image": "mcdonaldsprinterlit.png:<color>" } ],
-
       "imagePosition": [ -8, 0 ],
-      "frames": 1,
-      "animationCycle": 1.0,
-
-      "lightPosition": [ 0, 1 ],
-
       "direction": "right",
-
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     }

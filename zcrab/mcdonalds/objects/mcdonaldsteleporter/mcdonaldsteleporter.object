@@ -19,11 +19,7 @@
   "orientations": [
     {
       "imageLayers": [ { "image": "mcdonaldsteleporter.png:<color>", "fullbright": true }, { "image": "mcdonaldsteleporterlit.png:<color>" } ],
-
       "imagePosition": [ -16, 0 ],
-      "frames": 1,
-      "animationCycle": 0.5,
-
       "spaceScan": 0.1,
       "anchors": [ "bottom" ],
       "collision": "solid",
@@ -33,7 +29,6 @@
 
   "health": 10,
   "rooting": true,
-
   "teleporterFootPosition": [ 0, 1 ],
 
   "scripts": [ "mcdonaldsteleporter.lua" ],
