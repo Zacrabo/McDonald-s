@@ -9,18 +9,20 @@
   "shortdescription": "Lamp Post",
   "race": "generic",
 
-  "lightColor": [ 229, 229, 202 ],
-  "lightPosition": [ 0.5, 5.5 ],
+  "lightColor": [ 229, 219, 182 ],
   "pointLight": true,
   "pointBeam": 0.6,
-  "beamAngle": 270,
-  "beamAmbience": 0.35,
+  "beamAmbience": 0.4,
 
   "inventoryIcon": "lampposticon.png",
   "orientations": [
     {
       "dualImage": "lamppost.png:<color>.<frame>",
       "imagePosition": [ -16, 0 ],
+
+      "lightPosition": [ 0.5, 5.5 ],
+      "beamAngle": -90,
+
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     }
