@@ -1,19 +1,19 @@
 {
-  "itemName" : "zcrab_chocolatemilk",
-  "rarity" : "Common",
-  "price" : 40,
-  "category" : "drink",
-  "inventoryIcon" : "chocolatemilk.png",
-  "description" : "you can have chocolate milk as a drink for your happy meal :)",
-  "shortdescription" : "Chocolate Milk",
-  "foodValue" : 10,
-  "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 1,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 1.0,
-  "blockingEffects" : [
+  "itemName": "zcrab_chocolatemilk",
+  "rarity": "Common",
+  "price": 40,
+  "category": "drink",
+  "inventoryIcon": "chocolatemilk.png",
+  "description": "you can have chocolate milk as a drink for your happy meal :)",
+  "shortdescription": "Chocolate Milk",
+  "foodValue": 10,
+  "tooltipKind": "food",
+  "builder": "/items/buildscripts/buildfood.lua",
+  "maxStack": 1,
+  "itemAgingScripts": [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier": 1.0,
+  "blockingEffects": [
     "wellfed"
   ],
-  "emitters" : [ "drinking" ]
+  "emitters": [ "drinking" ]
 }

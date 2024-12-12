@@ -1,7 +1,7 @@
 [
 	{
-		"op" : "add",
-		"path" : "/##files##/-",
-		"value" : "/interface/scripted/fm_musicplayer/zcrab_mcdonalds.config"
+		"op": "add",
+		"path": "/##files##/-",
+		"value": "/interface/scripted/fm_musicplayer/zcrab_mcdonalds.config"
 	}
 ]

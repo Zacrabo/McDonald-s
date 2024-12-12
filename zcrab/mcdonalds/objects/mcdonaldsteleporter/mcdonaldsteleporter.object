@@ -13,7 +13,7 @@
   "lightPosition": [ 0, 1 ],
 
   "interactAction": "OpenTeleportDialog",
-  "interactData": "/interface/warping/zcrab_mcdonaldsteleporter.config",
+  "interactData": "/zcrab/mcdonalds/objects/mcdonaldsteleporter/mcdonaldsteleporter.config",
 
   "inventoryIcon": "icon.png",
   "orientations": [

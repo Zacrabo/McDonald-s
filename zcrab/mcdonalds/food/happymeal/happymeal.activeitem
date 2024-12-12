@@ -1,25 +1,25 @@
 {
-  "itemName" : "zcrab_happymeal",
-  "price" : 2500,
-  "level" : 1,
-  "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "foodJunk",
-	"tooltipFields" : {"subtitle" : "McDonald's"},
-  "description" : "the mcdonalds happy meal",
-  "shortdescription" : "Happy Meal",
-  "twoHanded" : true,
+  "itemName": "zcrab_happymeal",
+  "price": 2500,
+  "level": 1,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "category": "foodJunk",
+  "tooltipFields": { "subtitle": "McDonald's" },
+  "description": "the mcdonalds happy meal",
+  "shortdescription": "Happy Meal",
+  "twoHanded": true,
 
-  "inventoryIcon" : "happymealicon.png",
-  "animation" : "happymeal.animation",
-  "animationCustom" : {},
-  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+  "inventoryIcon": "happymealicon.png",
+  "animation": "happymeal.animation",
+  "animationCustom": { },
+  "scripts": [ "/items/active/unsorted/rewardbag/rewardbag.lua" ],
 
-  "fireTime" : 2.0,
-  "fireOffset" : [1.0, 0.0],
+  "fireTime": 2.0,
+  "fireOffset": [ 1.0, 0.0 ],
 
-  "treasure" : {
-    "pool" : "zcrab_happymeal",
-    "level" : 1
+  "treasure": {
+    "pool": "zcrab_happymeal",
+    "level": 1
   }
 }

@@ -1,13 +1,13 @@
 {
-  "type" : "zcrab_mcdonaldsoffice",
-  "baseType" : "outpostvisitor",
-  
+  "type": "zcrab_mcdonaldsoffice",
+  "baseType": "outpostvisitor",
 
-  "scriptConfig" : {
-    "dialog" : {
-      "converse" : {
-        "human" : {
-          "default" : [
+
+  "scriptConfig": {
+    "dialog": {
+      "converse": {
+        "human": {
+          "default": [
             "I'm working long hours to help finish an overdue project - luckily I can work from home!",
             "I work in finance - can't you tell by the bags under my eyes and my freshly-ironed shirt?",
             "I'm here for a cheeseburger."
@@ -17,16 +17,16 @@
     }
   },
 
-  "items" : {
-    "override" : [
-      [0, [
+  "items": {
+    "override": [
+      [ 0, [
           {
 
-            "chest" : [
-              { "name" : "shirtchest" }
+            "chest": [
+              { "name": "shirtchest" }
             ],
-            "legs" : [
-              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }
+            "legs": [
+              { "name": "coollegs", "parameters": { "colorIndex": 1 } }
             ]
           }
         ] ]

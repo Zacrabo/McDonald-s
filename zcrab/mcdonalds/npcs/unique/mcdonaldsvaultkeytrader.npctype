@@ -1,89 +1,89 @@
 {
-  "type" : "zcrab_mcdonaldsvaultkeytrader",
-  "baseType" : "outpostvisitor",
+  "type": "zcrab_mcdonaldsvaultkeytrader",
+  "baseType": "outpostvisitor",
 
-  "scriptConfig" : {
-    
-    "chatSounds" : {
-      "avian" : {
-        "male" : [
+  "scriptConfig": {
+
+    "chatSounds": {
+      "avian": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "apex" : {
-        "male" : [
+      "apex": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "floran" : {
-        "male" : [
+      "floran": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "glitch" : {
-        "male" : [
+      "glitch": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "human" : {
-        "male" : [
+      "human": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "hylotl" : {
-        "male" : [
+      "hylotl": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ]
       },
-      "default" : {
-        "male" : [
+      "default": {
+        "male": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
         ],
-        "female" : [
+        "female": [
           "/sfx/humanoid/shadowvillager_chatter1.ogg",
           "/sfx/humanoid/shadowvillager_chatter2.ogg",
           "/sfx/humanoid/shadowvillager_chatter3.ogg"
@@ -91,10 +91,10 @@
       }
     },
 
-    "dialog" : {
-      "converse" : {
-        "default" : {
-          "default" : [
+    "dialog": {
+      "converse": {
+        "default": {
+          "default": [
             "do you think you're ready"
           ]
         }
@@ -102,18 +102,18 @@
     }
   },
 
-  "items" : {
-    "override" : [
-      [0, [
+  "items": {
+    "override": [
+      [ 0, [
           {
-            "head" : [
-              { "name" : "caretakerhead", "parameters" : { "colorIndex" : 0 } }
+            "head": [
+              { "name": "caretakerhead", "parameters": { "colorIndex": 0 } }
             ],
-            "chest" : [
-              { "name" : "caretakerchest", "parameters" : { "colorIndex" : 0 } }
+            "chest": [
+              { "name": "caretakerchest", "parameters": { "colorIndex": 0 } }
             ],
-            "legs" : [
-              { "name" : "caretakerlegs", "parameters" : { "colorIndex" : 0 } }
+            "legs": [
+              { "name": "caretakerlegs", "parameters": { "colorIndex": 0 } }
             ]
           }
         ] ]

@@ -1,25 +1,24 @@
 {
-  "metadata" : {
-    "name" : "zcrab_mcdonalds",
-    "species" : "generic",
-    "rules" : [
-    ],
+  "metadata": {
+    "name": "zcrab_mcdonalds",
+    "species": "generic",
+    "rules": [ ],
 
-    "anchor" : [ "zcrab_mcdonalds" ],
+    "anchor": [ "zcrab_mcdonalds" ],
 
-    "gravity" : 80,
-    "maxRadius" : 1000000,
-    "maxParts" : 1,
-    "protected" : true
+    "gravity": 80,
+    "maxRadius": 1000000,
+    "maxParts": 1,
+    "protected": true
   },
 
-  "parts" : [
+  "parts": [
     {
-      "name" : "zcrab_mcdonalds",
-      "rules" : [
-        [ "maxSpawnCount", [1] ]
+      "name": "zcrab_mcdonalds",
+      "rules": [
+        [ "maxSpawnCount", [ 1 ] ]
       ],
-      "def" : [ "tmx", "zcrab_mcdonalds.json" ]
+      "def": [ "tmx", "zcrab_mcdonalds.json" ]
     }
   ]
 }

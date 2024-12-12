@@ -1,22 +1,22 @@
 {
-  "itemName" : "zcrab_toywrapper",
-  "price" : 2800,
-  "level" : 1,
-  "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "foodJunk",
-	"tooltipFields" : {"subtitle" : "McDonald's"},
-  "description" : "one toy please!",
-  "shortdescription" : "Wrapped Happy Meal Toy",
-  "twoHanded" : true,
+  "itemName": "zcrab_toywrapper",
+  "price": 2800,
+  "level": 1,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "category": "foodJunk",
+  "tooltipFields": { "subtitle": "McDonald's" },
+  "description": "one toy please!",
+  "shortdescription": "Wrapped Happy Meal Toy",
+  "twoHanded": true,
 
-  "inventoryIcon" : "toywrappericon.png",
-  "animation" : "toywrapper.animation",
-  "animationCustom" : {},
-  "scripts" : ["toywrapper.lua"],
+  "inventoryIcon": "toywrappericon.png",
+  "animation": "toywrapper.animation",
+  "animationCustom": { },
+  "scripts": [ "toywrapper.lua" ],
 
-  "treasure" : {
-    "pool" : "zcrab_happymealtoywrapper",
-    "level" : 1
+  "treasure": {
+    "pool": "zcrab_happymealtoywrapper",
+    "level": 1
   }
 }
