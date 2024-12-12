@@ -2,7 +2,7 @@
   "name": "zcrab_mcdonalds",
   "tilewidth": 8,
   "tileheight": 8,
-  "tilecount": 10,
+  "tilecount": 11,
   "tileproperties": {
     "0": {
       "object": "zcrab_mcdonalds",
@@ -63,6 +63,12 @@
       "tilesetDirection": "right",
       "imagePositionX": "-8",
       "imagePositionY": "0"
+    },
+    "10": {
+      "object": "zcrab_mcdonaldsprinter",
+      "tilesetDirection": "right",
+      "imagePositionX": "-8",
+      "imagePositionY": "0"
     }
   },
   "tiles": {
@@ -75,6 +81,7 @@
     "6": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldstable\/mcdonaldstable.png" },
     "7": { "image": "lamppost.png" },
     "8": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/parkingsign\/parkingsignright.png" },
-    "9": { "image": "radio.png" }
+    "9": { "image": "radio.png" },
+    "10": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsprinter\/mcdonaldsprinter.png" }
   }
 }
