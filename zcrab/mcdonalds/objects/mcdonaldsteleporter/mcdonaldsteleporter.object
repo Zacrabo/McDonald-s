@@ -34,7 +34,7 @@
   "scripts": [ "mcdonaldsteleporter.lua" ],
   "scriptDelta": 60,
 
-  "spawnInterval": [ 30, 160 ],
+  "spawnInterval": [ 30, 120 ],
   "spawnOffset": [ 0, 3.5 ],
 
   "npctypes": [
