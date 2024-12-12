@@ -8,11 +8,24 @@
   "category": "decorative",
   "price": 150,
 
+  "lightColor": [ 120, 90, 50 ],
+
   "inventoryIcon": "mcdonaldsposticon.png",
   "orientations": [
     {
-      "dualImage": "mcdonaldspost.png:<color>",
+      "imageLayers": [ { "image": "mcdonaldspost.png:<color>", "fullbright": true }, { "image": "mcdonaldspostlit.png:<color>" } ],
       "imagePosition": [ -16, 0 ],
+      "lightPosition": [ 0.5, 11 ],
+      "direction": "left",
+      "flipImages": true,
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
+    },
+    {
+      "imageLayers": [ { "image": "mcdonaldspost.png:<color>", "fullbright": true }, { "image": "mcdonaldspostlit.png:<color>" } ],
+      "imagePosition": [ -16, 0 ],
+      "lightPosition": [ 0.5, 11 ],
+      "direction": "right",
       "spaceScan": 0.1,
       "anchors": [ "bottom" ]
     }
