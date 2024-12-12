@@ -27,10 +27,10 @@
           "eveningColors": [ [ 200, 200, 255 ], [ 200, 200, 255 ] ],
           "nightColors": [ [ 200, 200, 255 ], [ 200, 200, 255 ] ],
 
-          "morningLightColor": [ 120, 120, 120 ],
-          "dayLightColor": [ 120, 120, 120 ],
-          "eveningLightColor": [ 120, 120, 120 ],
-          "nightLightColor": [ 120, 120, 120 ]
+          "morningLightColor": [ 80, 80, 80 ],
+          "dayLightColor": [ 80, 80, 80 ],
+          "eveningLightColor": [ 80, 80, 80 ],
+          "nightLightColor": [ 80, 80, 80 ]
         }
       }
     }
