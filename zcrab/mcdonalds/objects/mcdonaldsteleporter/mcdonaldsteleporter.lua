@@ -1,4 +1,6 @@
 function init()
+	self.randomSource = sb.makeRandomSource()
+
 	self.spawnInterval = config.getParameter("spawnInterval")
 	self.spawnPosition = object.toAbsolutePosition(config.getParameter("spawnOffset", {0, 0}))
 
@@ -53,7 +55,7 @@ function update(dt)
 	end
 end
 
-function spawnNpc()
+function spawnNpc(beam)
 	local npc = weightedRandom(self.npcList, self.totalNpcWeights)
 	if not npc then return end
 	
@@ -62,7 +64,10 @@ function spawnNpc()
 
 	local npcId = world.spawnNpc(self.spawnPosition, species.name, npc.type, 1)
 
-	world.callScriptedEntity(npcId, "status.addEphemeralEffect", "beamin")
+	if beam ~= false then
+		world.callScriptedEntity(npcId, "status.addEphemeralEffect", "beamin")
+	end
+	
 	if npc.displayNametag then
 		world.callScriptedEntity(npcId, "npc.setDisplayNametag", true)
 	end
@@ -71,7 +76,7 @@ function spawnNpc()
 end
 
 function resetTimer()
-	self.spawnTimer = self.spawnInterval[1] + (math.random() * (self.spawnInterval[2] - self.spawnInterval[1]))
+	self.spawnTimer = self.randomSource:randf(self.spawnInterval[1], self.spawnInterval[2])
 end
 
 function npcExists(npcType, species)
@@ -79,7 +84,7 @@ function npcExists(npcType, species)
 end
 
 function weightedRandom(options, totalWeight)
-	local choice = math.random() * totalWeight
+	local choice = self.randomSource:randf() * totalWeight
 	for _, option in ipairs(options) do
 		choice = choice - (option.weight or 1)
 		if choice < 0 then
