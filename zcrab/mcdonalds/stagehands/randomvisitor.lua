@@ -1,4 +1,6 @@
-function init()
+function update()
+  script.setUpdateDelta(0)
+
   local chance = config.getParameter("spawnChance", 0.5)
   if sb.makeRandomSource():randf() > chance then
     return
