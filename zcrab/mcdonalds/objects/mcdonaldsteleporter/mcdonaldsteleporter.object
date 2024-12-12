@@ -34,8 +34,6 @@
   "health": 10,
   "rooting": true,
 
-  "breakDropPool": "remoteteleporter",
-
   "teleporterFootPosition": [ 0, 1 ],
 
   "scripts": [ "mcdonaldsteleporter.lua" ],
