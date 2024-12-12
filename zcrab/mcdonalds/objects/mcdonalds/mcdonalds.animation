@@ -31,29 +31,11 @@
           "image": "<partImage>"
         }
       },
-      "signback": {
-        "properties": {
-          "zLevel": 2,
-          "offset": [ 4, 6 ],
-          "centered": false,
-          "image": "<partImage>"
-        }
-      },
-      "sign": {
-        "properties": {
-          "zLevel": 3,
-          "offset": [ 4, 6 ],
-          "centered": false,
-          "fullbright": true,
-          "image": "<partImage>"
-        }
-      },
       "frog": {
         "properties": {
           "zLevel": 4,
           "offset": [ 12.625, 2.125 ],
-          "centered": false,
-          "fullbright": true
+          "centered": false
         },
 
         "partStates": {

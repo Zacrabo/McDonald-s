@@ -5,6 +5,6 @@
   "input": [
     { "item": "zcrab_fries", "count": 1 }
   ],
-  "output": { "item": "zcrab_mcdonaldsnopost", "count": 1 },
+  "output": { "item": "zcrab_mcdonalds", "count": 1 },
   "groups": [ "zcrab_mcprinter" ]
 }
