@@ -15,7 +15,7 @@
   "orientations" : [
     {
       "image" : "mcdonaldsradio.png:<color>.<frame>",
-      "imagePosition" : [-7, 0],
+      "imagePosition" : [-8, 0],
 
       "direction" : "left",
       "flipImages" : true,
@@ -27,7 +27,7 @@
     },
     {
       "image" : "mcdonaldsradio.png:<color>.<frame>",
-      "imagePosition" : [-7, 0],
+      "imagePosition" : [-8, 0],
 
       "direction" : "right",
       "lightPosition" : [0, 0],
@@ -48,7 +48,7 @@
       "off" : [ "/sfx/objects/speaker_toggle.ogg" ]
     }
   },
-  "animationPosition" : [-7, 0],
+  "animationPosition" : [-8, 0],
 
   "scripts" : [
     "/objects/wired/light/light.lua",
