@@ -13,10 +13,7 @@
   "inventoryIcon": "happymealicon.png",
   "animation": "happymeal.animation",
   "animationCustom": { },
-  "scripts": [ "/items/active/unsorted/rewardbag/rewardbag.lua" ],
-
-  "fireTime": 2.0,
-  "fireOffset": [ 1.0, 0.0 ],
+  "scripts": [ "/zcrab/mcdonalds/items/treasurebag.lua" ],
 
   "treasure": {
     "pool": "zcrab_happymeal",
