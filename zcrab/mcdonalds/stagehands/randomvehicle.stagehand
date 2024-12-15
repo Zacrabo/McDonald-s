@@ -1,7 +1,7 @@
 {
   "type": "zcrab_mcdonalds_randomvehicle",
   "scripts": [ "/zcrab/mcdonalds/stagehands/randomvehicle.lua" ],
-  "scriptDelta": 0,
+  "scriptDelta": 1,
   "vehicles": [ "hoverbikekhaki", "hoverbikered", "hoverbikegreen" ],
-  "vehicleChance": 0.5
+  "spawnChance": 0.3
 }
