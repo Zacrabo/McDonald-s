@@ -1,60 +1,56 @@
 {
-  "objectName" : "zcrab_mcdonaldshometeleporter",
-  "colonyTags" : ["misc"],
-  "objectType" : "teleporter",
-  "rarity" : "Legendary",
-  "description" : "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
-  "shortdescription" : "McDonald's Teleporter",
-  "price" : 3000,
-  "printable" : false,
+  "objectName": "zcrab_mcdonaldshometeleporter",
+  "colonyTags": [ "misc" ],
+  "objectType": "teleporter",
+  "rarity": "Legendary",
+  "description": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+  "shortdescription": "McDonald's Teleporter",
+  "price": 3000,
+  "printable": false,
 
-  "category" : "teleporter",
-  "lightColor" : [40, 80, 100],
-  "lightPosition" : [0, 1],
+  "category": "teleporter",
+  "lightColor": [ 40, 80, 100 ],
 
-  "interactAction" : "OpenTeleportDialog",
-  "interactData" : "/interface/warping/remoteteleporter.config",
+  "interactAction": "OpenTeleportDialog",
+  "interactData": "/interface/warping/remoteteleporter.config",
 
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
+  "inventoryIcon": "icon.png",
+  "orientations": [
     {
-      "imageLayers" : [ { "image" : "mcdonaldsteleporter.png:<color>", "fullbright" : true }, { "image" : "mcdonaldsteleporterlit.png:<color>" } ],
-
-      "imagePosition" : [-16, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+      "imageLayers": [ { "image": "mcdonaldsteleporter.png:<color>", "fullbright": true }, { "image": "mcdonaldsteleporterlit.png:<color>" } ],
+      "imagePosition": [ -16, 0 ],
+      "lightPosition": [ 0, 1 ],
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ],
+      "collision": "solid",
+      "collisionSpaces": [ [ -2, 0 ], [ -1, 0 ], [ 0, 0 ], [ 1, 0 ] ]
     }
   ],
 
-  "health" : 10,
-  "rooting" : true,
+  "health": 10,
+  "rooting": true,
+  "breakDropPool": "remoteteleporter",
+  "teleporterFootPosition": [ 0, 1 ],
 
-  "breakDropPool" : "remoteteleporter",
-
-  "teleporterFootPosition" : [0, 1],
-
-  "scripts" : [ "/scripts/npcToyObject.lua"],
-  "npcToy" : {
-    "influence" : [
+  "scripts": [ "/scripts/npcToyObject.lua" ],
+  "scriptDelta": 60,
+  
+  "npcToy": {
+    "influence": [
       "teleporter",
       "teleporterComplete"
     ],
-    "defaultReactions" : {
-      "teleporter" : [
-        [1.0, "beamaway"]
+    "defaultReactions": {
+      "teleporter": [
+        [ 1.0, "beamaway" ]
       ],
-      "teleporterComplete" : [
-        [1.0, "vomit"],
-        [1.0, "smile"]
+      "teleporterComplete": [
+        [ 1.0, "vomit" ],
+        [ 1.0, "smile" ]
       ]
     },
-    "preciseStandPositionLeft" : [0, 0.0],
-    "preciseStandPositionRight" : [0, 0.0],
-    "maxNpcs" : 1
+    "preciseStandPositionLeft": [ 0, 0.0 ],
+    "preciseStandPositionRight": [ 0, 0.0 ],
+    "maxNpcs": 1
   }
 }

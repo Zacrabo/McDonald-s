@@ -6,13 +6,13 @@
       "primaryDungeon": "zcrab_mcdonalds",
       "threatLevel": 1,
       "gravity": 0,
-      "worldSize": [1000, 1000],
+      "worldSize": [ 1000, 1000 ],
       "dungeonBaseHeight": 500,
-      "ambientLightLevel": [32, 32, 32],
+      "ambientLightLevel": [ 16, 16, 16 ],
       "ambientNoises": "/sfx/environmental/space_loop4.ogg",
       "musicTrack": "/zcrab/mcdonalds/music/mcdonalds.ogg",
-      "environmentStatusEffects" : ["biomeairless"],
-      "worldEdgeForceRegions" : "TopAndBottom",
+      "environmentStatusEffects": [ "biomeairless" ],
+      "worldEdgeForceRegions": "TopAndBottom",
       "biome": "space"
     }
   }

@@ -1,92 +1,93 @@
 {
-  "objectName" : "zcrab_mcdonalds",
-  "colonyTags" : ["outpost","commerce"],
-  "rarity" : "Legendary",
-  "category" : "other",
-  "price" : 3000,
-  "description" : "hammed burger",
-  "shortdescription" : "McDonald's",
-  "race" : "generic",
-  "printable" : false,
-  "lightColor" : [175, 150, 120],
-	
-  "interactAction" : "OpenMerchantInterface",
-  "interactData" : {
-    "config" : "/interface/windowconfig/merchant.config",
-    "paneLayoutOverride" : {
-      "windowtitle" : {
-        "title" : "McDonald's",
-        "subtitle" : "^#b9b5b2;over 99 billion served"
+  "objectName": "zcrab_mcdonalds",
+  "colonyTags": [ "outpost", "commerce" ],
+  "rarity": "Legendary",
+  "category": "other",
+  "price": 3000,
+  "description": "hammed burger",
+  "shortdescription": "McDonald's",
+  "race": "generic",
+  "printable": false,
+  "inventoryIcon": "icon.png",
+
+  "interactAction": "OpenMerchantInterface",
+  "interactData": {
+    "config": "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride": {
+      "windowtitle": {
+        "title": "McDonald's",
+        "subtitle": "^#b9b5b2;over 99 billion served",
+        "icon": {
+          "type": "image",
+          "file": "/zcrab/mcdonalds/objects/mcdonalds/windowicon.png",
+          "position": [ 0, -20 ],
+          "zlevel": -1
+        }
       }
     },
-    "buyFactor" : 1.8,
-    "sellFactor" : 0.2,
-    "items" : [
-			{ "item" : "zcrab_happymeal" },
-			{ "item" : "hamburger" },
-			{ "item" : "cheeseburger" },
-			{ "item" : "zcrab_bigmac" },
-			{ "item" : "zcrab_chickennuggets" },
-			{ "item" : "zcrab_fries" },
-			{ "item" : "zcrab_appleslices" },
-			{ "item" : "zcrab_mcdonaldsdrink" },
-			{ "item" : "zcrab_chocolatemilk" }
-		]
+    "buyFactor": 1.8,
+    "sellFactor": 0.2,
+    "items": [
+      { "item": "zcrab_happymeal" },
+      { "item": "hamburger" },
+      { "item": "cheeseburger" },
+      { "item": "zcrab_bigmac" },
+      { "item": "zcrab_chickennuggets" },
+      { "item": "zcrab_fries" },
+      { "item": "zcrab_appleslices" },
+      { "item": "zcrab_mcdonaldsdrink" },
+      { "item": "zcrab_chocolatemilk" }
+    ]
   },
-	
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "imageLayers" : [ { "image" : "mcdonaldslit.png", "fullbright" : true }, { "image" : "mcdonalds.png" } ],
-			"flipImages" : true,
-      "direction" : "left",
 
-      "animationParts" : {
-        "signback" : "signback.png?flipx",
-        "sign" : "signleft.png?flipx"
+  "lightColor": [ 175, 150, 120 ],
+  "mouthPosition": [ 5.25, -7 ],
+
+  "animation": "mcdonalds.animation",
+  "animationPosition": [ -64, 0 ],
+
+  "orientations": [
+    {
+      "imageLayers": [ { "image": "mcdonaldsleftlit.png", "fullbright": true }, { "image": "mcdonaldsleft.png" } ],
+      "imagePosition": [ -64, 0 ],
+      "direction": "left",
+
+      "animationParts": {
+        "mcdonaldslit": "mcdonaldsleftlit.png?flipx",
+        "mcdonalds": "mcdonaldsleft.png?flipx"
       },
 
-      "lightPosition" : [0, 4],
-      "imagePosition" : [-64, 0],
-
-      "spaceScan" : 0.1,
+      "lightPosition": [ -2, 4 ],
       "interactiveSpaces": [
-        [1, 0], [2, 0], [3, 0],
-        [1, 1], [2, 1], [3, 1],
-        [1, 2], [2, 2], [3, 2],
-        [1, 3], [2, 3], [3, 3],
-        [1, 4], [2, 4], [3, 4]
+        [ -3, 1 ], [ -4, 1 ], [ -5, 1 ], [ -6, 1 ],
+        [ -3, 2 ], [ -4, 2 ], [ -5, 2 ], [ -6, 2 ],
+        [ -3, 3 ], [ -4, 3 ], [ -5, 3 ], [ -6, 3 ],
+        [ -3, 4 ], [ -4, 4 ], [ -5, 4 ], [ -6, 4 ]
       ],
-      "anchors" : [ "bottom" ],
-			"mouthPosition" : [2.125, -13]
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
     },
     {
-      "imageLayers" : [ { "image" : "mcdonaldslit.png", "fullbright" : true }, { "image" : "mcdonalds.png" } ],
-      "direction" : "right",
+      "imageLayers": [ { "image": "mcdonaldslit.png", "fullbright": true }, { "image": "mcdonalds.png" } ],
+      "imagePosition": [ -64, 0 ],
+      "direction": "right",
 
-      "lightPosition" : [3, 4],
-      "imagePosition" : [-64, 0],
+      "animationParts": {
+        "mcdonaldslit": "mcdonaldslit.png",
+        "mcdonalds": "mcdonalds.png"
+      },
 
-      "spaceScan" : 0.1,
+      "lightPosition": [ 2, 4 ],
       "interactiveSpaces": [
-        [2, 0], [3, 0], [4, 0],
-        [2, 1], [3, 1], [4, 1],
-        [2, 2], [3, 2], [4, 2],
-        [2, 3], [3, 3], [4, 3],
-        [2, 4], [3, 4], [4, 4]
+        [ 3, 1 ], [ 4, 1 ], [ 5, 1 ], [ 6, 1 ],
+        [ 3, 2 ], [ 4, 2 ], [ 5, 2 ], [ 6, 2 ],
+        [ 3, 3 ], [ 4, 3 ], [ 5, 3 ], [ 6, 3 ],
+        [ 3, 4 ], [ 4, 4 ], [ 5, 4 ], [ 6, 4 ]
       ],
-      "anchors" : [ "bottom" ],
-			"mouthPosition" : [3.25, -13]
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
     }
   ],
 
-	"animationParts" : {
-    "signback" : "signback.png",
-		"sign" : "signright.png"
-	},
-	
-	"animation" : "mcdonalds.animation",
-  "animationPosition" : [-64, 0],
-	
-	"scripts" : ["mcdonalds.lua"]
+  "scripts": [ "mcdonalds.lua" ]
 }

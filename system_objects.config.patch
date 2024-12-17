@@ -18,8 +18,8 @@
       "permanent": true,
       "moving": false,
       "speed": 5,
-      "orbitRange": [10, 10],
-      "lifeTime": [0, 0],
+      "orbitRange": [ 10, 10 ],
+      "lifeTime": [ 0, 0 ],
       "parameters": {
         "icon": "/interface/bookmarks/icons/zcrab_mcdonalds.png",
         "displayName": "McDonald's",

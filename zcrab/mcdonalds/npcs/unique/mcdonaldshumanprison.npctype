@@ -1,13 +1,13 @@
 {
-  "type" : "zcrab_mcdonaldshumanprison",
-  "baseType" : "outpostvisitor",
-  
+  "type": "zcrab_mcdonaldshumanprison",
+  "baseType": "outpostvisitor",
 
-  "scriptConfig" : {
-    "dialog" : {
-      "converse" : {
-        "human" : {
-          "default" : [
+
+  "scriptConfig": {
+    "dialog": {
+      "converse": {
+        "human": {
+          "default": [
             "I just got out of prison! I was quite fond of it, though.",
             "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
             "Do I look like a bit of a misfit in this jumpsuit?",
@@ -19,15 +19,15 @@
     }
   },
 
-  "items" : {
-    "override" : [
-      [0, [
+  "items": {
+    "override": [
+      [ 0, [
           {
-            "chest" : [
-              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : 5 } }
+            "chest": [
+              { "name": "jumpsuitchest", "parameters": { "colorIndex": 5 } }
             ],
-            "legs" : [
-              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : 5 } }
+            "legs": [
+              { "name": "jumpsuitlegs", "parameters": { "colorIndex": 5 } }
             ]
           }
         ] ]

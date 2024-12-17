@@ -1,151 +1,149 @@
 {
-  "type" : "zcrab_mcdonaldserm",
-  "baseType" : "outpostvisitor",
-  
+	"type": "zcrab_mcdonaldserm",
+	"baseType": "outpostvisitor",
 
-  "scriptConfig" : {
-    "dialog" : {
-      "converse" : "/zcrab/mcdonalds/dialog/mcdonalds.config:converse"
-    }
-  },
+	"scriptConfig": {
+		"dialog": {
+			"converse": "/zcrab/mcdonalds/dialog/mcdonalds.config:converse"
+		}
+	},
 
-  "items" : {
-    "avikan" : [
-      [0, [
-          {
-            "chest" : [
-			{ "name" : "avikan-nomadicchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } },
-			{ "name" : "avikan-travellerchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } }
-		  ],
-		  "legs" : [
-			{ "name" : "avikan-nomadiclegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } },
-			{ "name" : "avikan-elderlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } },
-			{ "name" : "avikan-merchantlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } },
-			{ "name" : "avikan-travellerlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 11] } }
-            ]
-          },
-		  {
-            "chest" : [
-              { "name" : "avikan-starfarerchest", "parameters" : { "colorIndex" : [0, 1, 2] } },
-              { "name" : "avikan-engineerchest", "parameters" : { "colorIndex" : [0, 1, 2] } },
-              { "name" : "avikan-tacticalchest", "parameters" : { "colorIndex" : [0, 1, 2] } },
-              { "name" : "avikan-tacticalchest2", "parameters" : { "colorIndex" : [0, 1, 2] } }
-            ],
-            "legs" : [
-              { "name" : "avikan-starfarerlegs", "parameters" : { "colorIndex" : [0, 1, 2] } }
-            ]
-          },
-          {
-            "chest" : [
-              { "name" : "avikan-starfarerchest", "parameters" : { "colorIndex" : [0, 1, 2] } }
-            ],
-            "legs" : [
-              { "name" : "avikan-engineerlegs", "parameters" : { "colorIndex" : [0, 1, 2] } },
-              { "name" : "avikan-tacticallegs", "parameters" : { "colorIndex" : [0, 1, 2] } }
-            ]
-          }
-        ] ]
-    ],
-	
-	"trink" : [
-      [0, [
-          {
-		    "head" : [
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } }
-		  ],
-		  "chest" : [
-			{ "name" : "thea-hiddenchest", "parameters" : { "colorIndex" : 0 } }
-		  ],
-		  "legs" : [
-			{ "name" : "thea-hiddenlegs", "parameters" : { "colorIndex" : 0 } }
-            ]
-          },
-		  {
-		  "head" : [
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } }
-		  ],
-		  "chest" : [
-			{ "name" : "trink-paintedchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 8] } },
-			{ "name" : "trink-stripedchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 8] } }
-		  ],
-		  "legs" : [
-			{ "name" : "trink-paintedlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 8] } },
-			{ "name" : "trink-paintedhalflegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 8] } },
-			{ "name" : "trink-stripedlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 8] } }
-		  ]
-		}
-        ] ]
-    ],
-	
-	"aegi" : [
-      [0, [
-		{
-		  "head" : [
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "aegi-fedora", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-cap", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-beanie", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } }
-		  ],
-		  "chest" : [
-			{ "name" : "aegi-shirt", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-shirt", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-shirt", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-tanktop", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-tanktop", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-tanktop", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-formalchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-formalchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-formalchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-brandshirtgame", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "aegi-brandshirtaventor", "parameters" : { "colorIndex" : 0 } },
-			{ "name" : "aegi-brandshirtfroza", "parameters" : { "colorIndex" : 0 } }
-		  ],
-		  "legs" : [
-			{ "name" : "aegi-asauniformlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-asacoatlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-shorts", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-formallegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-casuallegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } },
-			{ "name" : "aegi-baggylegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 8, 11] } }
-		  ]
-		},
-		{
-            "chest" : [
-              { "name" : "aegi-allianceuniformchest", "parameters" : { "colorIndex" : [0, 8] } },
-              { "name" : "aegi-tanktop", "parameters" : { "colorIndex" : [8] } },
-              { "name" : "aegi-shirt", "parameters" : { "colorIndex" : [8] } }
-            ],
-            "legs" : [
-              { "name" : "aegi-allianceuniformlegs", "parameters" : { "colorIndex" : [0, 8] } }
-            ]
-          }
-	  ] ]
-    ],
-	
-	"akkimari" : [
-      [0, [
-		{
-		  "head" : [
-			{ "name" : "thea-hiddenhead", "parameters" : { "colorIndex" : 0 } }
-		  ],
-		  "chest" : [
-			{ "name" : "akkimari-clerkchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-forgerchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-traderchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-weaverchest", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } }
-		  ],
-		  "legs" : [
-			{ "name" : "akkimari-clerklegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-forgerlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-traderlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } },
-			{ "name" : "akkimari-weaverlegs", "parameters" : { "colorIndex" : [0, 1, 2, 3, 4, 7, 8, 11] } }
-		  ]
-		}
-	  ] ]
-    ]
-	
-  }
+	"items": {
+		"avikan": [
+			[ 0, [
+					{
+						"chest": [
+							{ "name": "avikan-nomadicchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } },
+							{ "name": "avikan-travellerchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } }
+						],
+						"legs": [
+							{ "name": "avikan-nomadiclegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } },
+							{ "name": "avikan-elderlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } },
+							{ "name": "avikan-merchantlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } },
+							{ "name": "avikan-travellerlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 11 ] } }
+						]
+					},
+					{
+						"chest": [
+							{ "name": "avikan-starfarerchest", "parameters": { "colorIndex": [ 0, 1, 2 ] } },
+							{ "name": "avikan-engineerchest", "parameters": { "colorIndex": [ 0, 1, 2 ] } },
+							{ "name": "avikan-tacticalchest", "parameters": { "colorIndex": [ 0, 1, 2 ] } },
+							{ "name": "avikan-tacticalchest2", "parameters": { "colorIndex": [ 0, 1, 2 ] } }
+						],
+						"legs": [
+							{ "name": "avikan-starfarerlegs", "parameters": { "colorIndex": [ 0, 1, 2 ] } }
+						]
+					},
+					{
+						"chest": [
+							{ "name": "avikan-starfarerchest", "parameters": { "colorIndex": [ 0, 1, 2 ] } }
+						],
+						"legs": [
+							{ "name": "avikan-engineerlegs", "parameters": { "colorIndex": [ 0, 1, 2 ] } },
+							{ "name": "avikan-tacticallegs", "parameters": { "colorIndex": [ 0, 1, 2 ] } }
+						]
+					}
+				] ]
+		],
+
+		"trink": [
+			[ 0, [
+					{
+						"head": [
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } }
+						],
+						"chest": [
+							{ "name": "thea-hiddenchest", "parameters": { "colorIndex": 0 } }
+						],
+						"legs": [
+							{ "name": "thea-hiddenlegs", "parameters": { "colorIndex": 0 } }
+						]
+					},
+					{
+						"head": [
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } }
+						],
+						"chest": [
+							{ "name": "trink-paintedchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 8 ] } },
+							{ "name": "trink-stripedchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 8 ] } }
+						],
+						"legs": [
+							{ "name": "trink-paintedlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 8 ] } },
+							{ "name": "trink-paintedhalflegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 8 ] } },
+							{ "name": "trink-stripedlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 8 ] } }
+						]
+					}
+				] ]
+		],
+
+		"aegi": [
+			[ 0, [
+					{
+						"head": [
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } },
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } },
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } },
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } },
+							{ "name": "aegi-fedora", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-cap", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-beanie", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } }
+						],
+						"chest": [
+							{ "name": "aegi-shirt", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-shirt", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-shirt", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-tanktop", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-tanktop", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-tanktop", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-formalchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-formalchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-formalchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-brandshirtgame", "parameters": { "colorIndex": 0 } },
+							{ "name": "aegi-brandshirtaventor", "parameters": { "colorIndex": 0 } },
+							{ "name": "aegi-brandshirtfroza", "parameters": { "colorIndex": 0 } }
+						],
+						"legs": [
+							{ "name": "aegi-asauniformlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-asacoatlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-shorts", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-formallegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-casuallegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } },
+							{ "name": "aegi-baggylegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 8, 11 ] } }
+						]
+					},
+					{
+						"chest": [
+							{ "name": "aegi-allianceuniformchest", "parameters": { "colorIndex": [ 0, 8 ] } },
+							{ "name": "aegi-tanktop", "parameters": { "colorIndex": [ 8 ] } },
+							{ "name": "aegi-shirt", "parameters": { "colorIndex": [ 8 ] } }
+						],
+						"legs": [
+							{ "name": "aegi-allianceuniformlegs", "parameters": { "colorIndex": [ 0, 8 ] } }
+						]
+					}
+				] ]
+		],
+
+		"akkimari": [
+			[ 0, [
+					{
+						"head": [
+							{ "name": "thea-hiddenhead", "parameters": { "colorIndex": 0 } }
+						],
+						"chest": [
+							{ "name": "akkimari-clerkchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-forgerchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-traderchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-weaverchest", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } }
+						],
+						"legs": [
+							{ "name": "akkimari-clerklegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-forgerlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-traderlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } },
+							{ "name": "akkimari-weaverlegs", "parameters": { "colorIndex": [ 0, 1, 2, 3, 4, 7, 8, 11 ] } }
+						]
+					}
+				] ]
+		]
+	}
 }

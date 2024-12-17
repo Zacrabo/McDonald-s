@@ -1,0 +1,80 @@
+{
+  "name": "zcrab_mcdonalds",
+  "tilewidth": 8,
+  "tileheight": 8,
+  "tilecount": 11,
+  "tileproperties": {
+    "0": {
+      "object": "zcrab_mcdonalds",
+      "tilesetDirection": "right",
+      "imagePositionX": "-64",
+      "imagePositionY": "0"
+    },
+    "1": {
+      "object": "zcrab_mcdonaldspost",
+      "tilesetDirection": "right",
+      "imagePositionX": "-16",
+      "imagePositionY": "0"
+    },
+    "2": {
+      "object": "zcrab_mcdonaldsteleporter",
+      "tilesetDirection": "right",
+      "imagePositionX": "-16",
+      "imagePositionY": "0"
+    },
+    "3": {
+      "object": "zcrab_mcdonaldshometeleporter",
+      "tilesetDirection": "right",
+      "imagePositionX": "-16",
+      "imagePositionY": "0"
+    },
+    "4": {
+      "object": "zcrab_mcdonaldsstool",
+      "tilesetDirection": "right",
+      "imagePositionX": "-8",
+      "imagePositionY": "0"
+    },
+    "5": {
+      "object": "zcrab_mcdonaldstable",
+      "tilesetDirection": "right",
+      "imagePositionX": "-16",
+      "imagePositionY": "0"
+    },
+    "6": {
+      "object": "zcrab_lamppost",
+      "tilesetDirection": "right",
+      "imagePositionX": "-16",
+      "imagePositionY": "0"
+    },
+    "7": {
+      "object": "zcrab_parkingsign",
+      "tilesetDirection": "right",
+      "imagePositionX": "-8",
+      "imagePositionY": "0"
+    },
+    "8": {
+      "object": "zcrab_mcdonaldsradio",
+      "tilesetDirection": "right",
+      "imagePositionX": "-8",
+      "imagePositionY": "0"
+    },
+    "9": {
+      "object": "zcrab_mcdonaldsprinter",
+      "tilesetDirection": "right",
+      "imagePositionX": "-8",
+      "imagePositionY": "0"
+    }
+  },
+  "tiles": {
+    "0": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonalds\/mcdonaldslit.png" },
+    "1": { "image": "mcdonaldspost.png" },
+    "2": { "image": "teleporter_visitors.png" },
+    "3": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsteleporter\/mcdonaldsteleporter.png" },
+    "4": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsstool\/mcdonaldsstool.png" },
+    "5": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldstable\/mcdonaldstable.png" },
+    "6": { "image": "lamppost.png" },
+    "7": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/parkingsign\/parkingsignright.png" },
+    "8": { "image": "mcdonaldsradio.png" },
+    "9": { "image": "..\/..\/zcrab\/mcdonalds\/objects\/mcdonaldsprinter\/mcdonaldsprinter.png" }
+  }
+}

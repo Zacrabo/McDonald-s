@@ -1,0 +1,19 @@
+{
+  "itemName": "zcrab_chickennuggets",
+  "rarity": "Rare",
+  "price": 215,
+  "category": "food",
+  "eventCategory": "cookingIngredient",
+  "inventoryIcon": "chickennuggets.png",
+  "description": "nuget...",
+  "shortdescription": "Chicken Nuggets",
+  "foodValue": 10,
+  "tooltipKind": "food",
+  "builder": "/items/buildscripts/buildfood.lua",
+  "maxStack": 1,
+  "itemAgingScripts": [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier": 0.5,
+  "blockingEffects": [
+    "wellfed"
+  ]
+}

@@ -1,8 +1,18 @@
-function init()
-	local vehicles = config.getParameter("vehicles", {})
-	if math.random() > 0.5 then
-		local v = vehicles[math.random(1, #vehicles)]
-		world.spawnVehicle(v, entity.position(), {ownerKey = sb.makeUuid()})
+function update()
+	script.setUpdateDelta(0)
+
+	local randomSource = sb.makeRandomSource()
+	local chance = config.getParameter("spawnChance", 0.5)
+	if randomSource:randf() > chance then
+		return
 	end
-	stagehand.die()
+
+	local list = config.getParameter("vehicles", {})
+	local name = list[randomSource:randInt(1, #list)]
+	local vehicleId = world.spawnVehicle(name, entity.position())
+
+	local state = world.callScriptedEntity(vehicleId, "animator.animationState", "movement")
+	if state == "warpInPart1" then
+		world.callScriptedEntity(vehicleId, "animator.setAnimationState", "movement", "idle")
+	end
 end

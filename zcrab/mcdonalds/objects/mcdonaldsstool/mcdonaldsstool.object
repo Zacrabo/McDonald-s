@@ -1,42 +1,24 @@
 {
-  "objectName" : "zcrab_mcdonaldsstool",
-  "colonyTags" : ["commerce"],
-  "rarity" : "Common",
-  "category" : "furniture",
-  "price" : 75,
-  "description" : "stool",
-  "shortdescription" : "McDonald's Stool",
-  "race" : "generic",
+  "objectName": "zcrab_mcdonaldsstool",
+  "colonyTags": [ "commerce" ],
+  "rarity": "Common",
+  "category": "furniture",
+  "price": 75,
+  "description": "stool",
+  "shortdescription": "McDonald's Stool",
+  "race": "generic",
 
-  "inventoryIcon" : "mcdonaldsstoolicon.png",
-  "orientations" : [
+  "inventoryIcon": "mcdonaldsstoolicon.png",
+  "orientations": [
     {
-      "image" : "mcdonaldsstool.png:<color>",
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-      "direction" : "left",
-      "flipImages" : true,
-      "sitPosition" : [3, 21],
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "mcdonaldsstool.png:<color>",
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-      "direction" : "right",
-      "sitPosition" : [1, 21],
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-
+      "dualImage": "mcdonaldsstool.png:<color>",
+      "imagePosition": [ -8, 0 ],
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
     }
   ],
 
-  "objectType" : "loungeable",
-  "sitFlipDirection" : false
-
+  "objectType": "loungeable",
+  "sitFlipDirection": false,
+  "sitPosition": [ 2, 21 ]
 }
